@@ -1,0 +1,109 @@
+% Essential packages
+\usepackage{graphicx}         % For including graphics/images
+\usepackage{xcolor}           % For color text and colored elements
+\usepackage{hyperref}         % For clickable hyperlinks in PDF
+\usepackage[T1]{fontenc}      % Use T1 font encoding (better handling of accented characters)
+\usepackage{amsmath,          % American Mathematical Society math extensions
+            amsfonts,         % Additional math fonts
+            amssymb,          % Additional math symbols
+            amsthm,           % Theorem environment support
+            mathtools}        % Enhances amsmath with extra tools
+
+\usepackage{csquotes}         % Context-sensitive quotation marks, required by biblatex
+\usepackage[english]{babel}   % Language-specific typography and hyphenation (here: English)
+
+% Captioning and subfigures
+\usepackage{caption}          % Customizing captions
+\usepackage{subcaption}       % Sub-figures and sub-tables
+
+% Tables and tabular enhancements
+\usepackage{longtable}        % Multi-page tables
+\usepackage{array}            % Extends tabular environment
+\usepackage{multirow}         % Table cells spanning multiple rows
+\usepackage{wrapfig}          % Wrapping text around figures
+\usepackage{colortbl}         % Color in tables
+\usepackage{pdflscape}        % Landscape pages in PDF (auto-rotating)
+\usepackage{tabu}             % Flexible tables (now outdated and deprecated)
+\usepackage{threeparttable}   % Notes under tables
+\usepackage{threeparttablex}  % Extended version of above with longtable support
+\usepackage{makecell}         % Custom line breaks and formatting in table cells
+\usepackage{siunitx}          % Proper typesetting of units and numbers
+\usepackage{float}            % Improved float positioning (e.g., [H] specifier)
+\usepackage{booktabs}         % Professional-quality tables (rules, spacing)
+
+% Fonts and spacing
+\usepackage{lmodern}          % Latin Modern font (scalable, better for PDF)
+\usepackage{setspace}         % Control line spacing
+\usepackage[bottom]{footmisc} % Place footnotes at bottom of page consistently
+
+% Bibliography
+\usepackage[style = apa]{biblatex} % APA citation style using biblatex
+\addbibresource{bibliography.bib} % Bibliography file
+
+% Layout
+\usepackage[a4paper, vmargin=3.3cm, hmargin=3.3cm]{geometry} % Set page size and margins
+
+% Prevent widows/orphans
+\widowpenalty=10000 % Avoid single lines of paragraphs at the top/bottom of pages
+
+% KOMA-Script settings
+\addtokomafont{disposition}{\rmfamily} % Use roman font for section headings
+
+% Custom title formatting
+\makeatletter
+\renewcommand{\maketitle}{
+  \begin{center}
+    {\usekomafont{title}{\LARGE\@title\par}}%
+    \vskip 1em 
+    {\usekomafont{subtitle}{\large\@subtitle\par}}%
+    \vskip 1em   
+    {\usekomafont{author}{\@author\par}}%
+  \end{center}
+}
+\makeatother
+
+% Hyperref customization
+\hypersetup{
+        unicode = false,                    % non-Latin characters in Acrobat’s bookmarks
+        pdftoolbar = true,                  % show Acrobat’s toolbar?
+        pdfmenubar = true,                  % show Acrobat’s menu?
+        pdffitwindow = false,               % window fit to page when opened
+        pdfstartview = {FitH},              % fits the width of the page to the window
+        pdftitle = {},                      % title
+        pdfauthor = {},     % author
+        pdfsubject = {Subject},             % subject of the document
+        pdfcreator = {},    % creator of the document
+        pdfproducer = {},                   % producer of the document
+        pdfkeywords = {},                   % list of keywords
+        pdfnewwindow = true,                % links in new PDF window
+        colorlinks = true,                  % false: boxed links; true: colored links
+        linkcolor = teal,                   % color of internal links (change box color with linkbordercolor)
+        citecolor = teal,                   % color of links to bibliography
+        filecolor = cyan,                   % color of file links
+        urlcolor = red                      % color of external links
+    }   
+
+% Spacing configuration
+\setstretch{1}                      % Single line spacing
+\setlength{\parindent}{15pt}       % Paragraph indentation
+\setlength{\parskip}{2pt}          % Spacing between paragraphs
+\setlength{\skip\footins}{15pt}    % Spacing before footnotes
+
+% Image settings
+\setkeys{Gin}{keepaspectratio}     % Maintain image proportions when scaling
+
+% Title
+\title{Title}
+\subtitle{Subtitle}
+\author{Author}
+
+% Document
+\begin{document}
+
+\maketitle
+
+
+% Bibliography
+\printbibliography
+
+\end{document}
