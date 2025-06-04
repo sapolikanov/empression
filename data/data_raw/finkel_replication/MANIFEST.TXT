@@ -1,0 +1,10 @@
+2014.07.12.tab (text/tab-separated-values) 638632 bytes.
+archive_source.tab (text/tab-separated-values) 148377 bytes.
+Bushen.tab (text/tab-separated-values) 5154 bytes.
+Finkel Gehlbach Olsen CPS replication actions.do (text/x-stata-syntax; charset=US-ASCII) 16764 bytes.
+Finkel Gehlbach Olsen CPS replication causes.do (text/x-stata-syntax; charset=US-ASCII) 4071 bytes.
+Finkel Gehlbach Olsen CPS replication merge.do (text/x-stata-syntax; charset=US-ASCII) 39762 bytes.
+gubyr.tab (text/tab-separated-values) 20473 bytes.
+gub_id.tab (text/tab-separated-values) 1001 bytes.
+obrok_barshchina.tab (text/tab-separated-values) 23331 bytes.
+peasantcensus.tab (text/tab-separated-values) 3994 bytes.

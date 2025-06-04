@@ -1,0 +1,52 @@
+---
+title: "Primary data exploration"
+subtitle: "Peasant unrest and imperial repression"
+format: pdf
+execute: 
+  echo: false
+  warning: false
+  error: false
+  message: false
+---
+
+```{r}
+#| label: setup
+
+## Building data for the analysis
+## Dependencies: data_raw folder
+
+source(here::here("utilities", "check_packages.R"))
+source(here::here("utilities", "functions.R"))
+
+conflicts_prefer(sfnetworks::activate)
+conflicts_prefer(dplyr::filter)
+conflicts_prefer(dplyr::lag)
+```
+
+```{r}
+#| label: read_data
+
+# Repression data
+
+  ## deprivation
+  deprivation <- read_excel(here("data", "data_raw", "grigoriadis_repression", 
+                                 "data_result", "results_deprivation_geolocated.xlsx"))
+  
+  ## okhrana
+  okhrana <- read_excel(here("data", "data_raw", "grigoriadis_repression", 
+                             "data_result", "results_okhrana_geolocated.xlsx"), 
+                        guess_max = 13956)
+  
+# Unrest data
+  
+  ## Replication data from "Does Reform Prevent Rebellion? Evidence From 
+  ## Russia’s Emancipation of the Serfs" - https://doi.org/10.7910/DVN/29018
+  finkel <- read.table(here::here("data", "data_raw", "finkel_replication", "2014.07.12.tab"), 
+                     sep = "\t", header = TRUE, na.strings = 9999)
+  
+  ## Replication data from "Collective Action and Representation in Autocracies: 
+  ## Evidence from Russia's Great Reforms" - https://doi.org/10.1017/S0003055417000454
+  dower_variables <- read_dta(here("data", "data_raw", "dower_replication", "variables_replication.dta"))
+  dower_events <- read_dta(here("data", "data_raw", "dower_replication", "event_data_replication.dta"))
+  
+```

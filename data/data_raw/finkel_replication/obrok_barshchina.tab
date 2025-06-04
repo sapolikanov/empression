@@ -1,0 +1,505 @@
+masterid	Province	Uezd	ProvinceNumber	UezdNumber	HouseholdSerfs_1859	BarshchinaSerfs_1859	ObrokSerfs_1859
+1	"Arkhangel'sk"	"Arkhangel'skii"	1	1			
+2	"Arkhangel'sk"	"Kemskii"	1	2			
+3	"Arkhangel'sk"	"Kol'skii"	1	4			
+4	"Arkhangel'sk"	"Mezenskii"	1	5			
+5	"Arkhangel'sk"	"Onezhskii"	1	6			
+6	"Arkhangel'sk"	"Pechorskii"	1	7			
+7	"Arkhangel'sk"	"Pinezhskii"	1	8			
+8	"Arkhangel'sk"	"Kholmogorskii"	1	3			
+9	"Arkhangel'sk"	"Shenkurskii"	1	9			
+11	"Astrakhan"	"Astrakhanskii"	2	1	128	153	1242
+12	"Astrakhan"	"Ienotaevskii"	2	3	36	35	209
+13	"Astrakhan"	"Krasnoiarskii"	2	4	0	12	402
+14	"Astrakhan"	"Tsarevskii"	2	5	9	17	130
+15	"Astrakhan"	"Chernoiarskii"	2	2	36	125	313
+18	"Bessarabia"	"Kashinevskii"	3	6			
+19	"Bessarabia"	"Akkermanskii"	3	1			
+20	"Bessarabia"	"Benderskii"	3	3			
+21	"Bessarabia"	"Beletskii"	3	2			
+22	"Bessarabia"	"Orgeevskii"	3	8			
+23	"Bessarabia"	"Sorokskii"	3	9			
+24	"Bessarabia"	"Khotinksii"	3	7			
+25	"Bessarabia"	"Ismail'skii"	3	5			
+26	"Bessarabia"	"Iasskii"	3	4			
+27	"Chernigov"	"Chernigovskii"	4	2	1887	11727	0
+28	"Chernigov"	"Borzenskii"	4	1	486	12138	0
+29	"Chernigov"	"Glukhovskii"	4	3	2812	14882	0
+30	"Chernigov"	"Gorodnitskii"	4	4	2173	17504	0
+31	"Chernigov"	"Kozeletskii"	4	6	1438	13791	0
+32	"Chernigov"	"Konotopskii"	4	5	2605	12639	287
+33	"Chernigov"	"Krolevetskii"	4	7	812	10342	0
+34	"Chernigov"	"Mglinskii"	4	8	1517	20527	0
+35	"Chernigov"	"Novgorod-Severskii"	4	10	1036	19558	0
+36	"Chernigov"	"Novozybkovskii"	4	11	1174	26022	0
+37	"Chernigov"	"Nezhinskii"	4	9	1401	15022	0
+38	"Chernigov"	"Osterskii"	4	12	1184	3662	0
+39	"Chernigov"	"Sosnitskii"	4	13	2788	17864	102
+40	"Chernigov"	"Starodubskii"	4	14	2523	20156	0
+41	"Chernigov"	"Surazhskii"	4	15	627	27325	0
+42	"Ekaterinoslav'"	"Ekaterinoslavskii"	5	3	2438	11781	131
+43	"Ekaterinoslav'"	"Aleksandrovskii"	5	1	2333	13183	0
+44	"Ekaterinoslav'"	"Bakhmutskii"	5	2	5537	21321	0
+45	"Ekaterinoslav'"	"Verkhnedneprovskii"	5	10	5274	17584	0
+46	"Ekaterinoslav'"	"Maripolskii"	5	4			
+47	"Ekaterinoslav'"	"Novomoskovskii"	5	5	2910	19471	0
+48	"Ekaterinoslav'"	"Pavlogradskii"	5	6	4680	21539	0
+49	"Ekaterinoslav'"	"Slavianoserbskii"	5	8	3628	19236	64
+50	"Ekaterinoslav'"	"Rostovskii"	5	7	1580	8031	0
+52	"Estliand"	"Revel'skii"	6	2			
+53	"Estliand"	"Vezenbergskii"	6	4			
+54	"Estliand"	"Veisenshteinskii"	6	3			
+55	"Estliand"	"Gapsal'skii"	6	1			
+56	"Grodnno"	"Grodnenskii"	7	4	944	22119	190
+57	"Grodnno"	"Brestkii"	7	3	734	29565	77
+58	"Grodnno"	"Belostokskii"	7	1	195	10907	1469
+59	"Grodnno"	"Bel'skii"	7	2	881	10536	364
+60	"Grodnno"	"Volkovyskii"	7	9	836	17559	21
+61	"Grodnno"	"Kobrinskii"	7	5	1338	24971	60
+62	"Grodnno"	"Pruzhanskii"	7	6	660	17393	448
+63	"Grodnno"	"Slonimskii"	7	7	1055	23525	594
+64	"Grodnno"	"Sokol'skii"	7	8	182	2985	67
+65	"Iaroslav'"	"Iaroslavskii"	8	2	1333	2382	29574
+66	"Iaroslav'"	"Danilovskii"	8	1	852	2365	17672
+67	"Iaroslav'"	"Liubimskii"	8	3	1273	3422	11330
+68	"Iaroslav'"	"Mologskii"	8	4	323	2516	22989
+69	"Iaroslav'"	"Myshkinskii"	8	5	1475	1493	24429
+70	"Iaroslav'"	"Poshekhonskii"	8	6	1556	7506	19071
+71	"Iaroslav'"	"Romanov-Borisoglebskii"	8	7	2359	4085	18771
+72	"Iaroslav'"	"Rostovskii"	8	8	1058	2115	24826
+73	"Iaroslav'"	"Rybinskii"	8	9	899	1293	14291
+74	"Iaroslav'"	"Uglichskii"	8	10	832	1623	17626
+75	"Kaluzha"	"Kaluzhski"	10	2	1914	13696	6052
+76	"Kaluzha"	"Borovskii"	10	1	885	6300	6336
+77	"Kaluzha"	"Zhizdrinskii"	10	11	1165	19664	30548
+78	"Kaluzha"	"Kozel'skii"	10	3	1406	11676	17620
+79	"Kaluzha"	"Likhvinskii"	10	4	1675	9422	11522
+80	"Kaluzha"	"Maloiaroslavetskii"	10	5	752	4041	7030
+81	"Kaluzha"	"Medynskii"	10	6	1672	17507	17500
+82	"Kaluzha"	"Meschovskii"	10	7	1995	13925	18027
+83	"Kaluzha"	"Mosal'skii"	10	8	1291	16474	24402
+84	"Kaluzha"	"Peremyshl'skii"	10	9	1026	10453	5021
+85	"Kaluzha"	"Taruzkii"	10	10	1140	5484	15310
+86	"Kazan"	"Kazanskii"	11	4	895	7336	2198
+87	"Kazan"	"Koz'modem'ianskii"	11	5	12	234	45
+88	"Kazan"	"Laishevskii"	11	6	2298	24585	2031
+89	"Kazan"	"Mamadyshskii"	11	7	73	843	4
+90	"Kazan"	"Sviiazhskii"	11	9	372	8141	3330
+91	"Kazan"	"Spasskii"	11	8	1943	20616	579
+92	"Kazan"	"Tetiushskii"	11	10	483	5090	1067
+93	"Kazan"	"Tsarevokokshaiskii"	11	11	49	98	707
+94	"Kazan"	"Tsivil'skii"	11	12	266	1942	19
+95	"Kazan"	"Cheboksarskii"	11	1	219	1511	778
+96	"Kazan"	"Chistopol'skii"	11	2	821	10685	2092
+97	"Kazan"	"Iadrinskii"	11	3	33	641	293
+98	"Khar'kov"	"Khar'kovskii"	13	4	3291	15146	1863
+99	"Khar'kov"	"Akhtyrskii"	13	1	2250	11699	914
+100	"Khar'kov"	"Bogodukhovskii"	13	2	2630	14478	0
+101	"Khar'kov"	"Valkovskii"	13	9	2170	10063	0
+102	"Khar'kov"	"Volchanskii"	13	10	2991	23445	0
+103	"Khar'kov"	"Zmievskii"	13	11	3541	9280	0
+104	"Khar'kov"	"Iziumskii"	13	3	5866	26471	0
+105	"Khar'kov"	"Kupianskii"	13	5	4935	10602	0
+106	"Khar'kov"	"Lebedinskii"	13	6	3502	23327	0
+107	"Khar'kov"	"Starobel'skii"	13	7	4048	12792	0
+108	"Khar'kov"	"Sumskii"	13	8	6097	29415	0
+109	"Kherson"	"Khersonskii"	14	4	3750	22075	0
+110	"Kherson"	"Aleksandriiskii"	14	1	5596	27631	0
+111	"Kherson"	"Anan'evskii"	14	2	5363	18482	0
+112	"Kherson"	"Elizavetgradskii"	14	3	7378	34587	0
+113	"Kherson"	"Odesskii"	14	5	3634	10903	13
+114	"Kherson"	"Turaspol'skii"	14	6	3217	9919	35
+117	"Kiev"	"Kievskii"	15	5	225	31972	0
+118	"Kiev"	"Berdichevskii"	15	1	395	40008	0
+119	"Kiev"	"Vasil'kovskii"	15	11	43	51936	0
+120	"Kiev"	"Zvenigorodskii"	15	12	306	47246	0
+121	"Kiev"	"Kanevskii"	15	4	191	61500	0
+122	"Kiev"	"Lipovetskii"	15	6	210	46071	4352
+123	"Kiev"	"Radomysl'skii"	15	7	618	46319	0
+124	"Kiev"	"Skvirskii"	15	8	353	48219	0
+125	"Kiev"	"Tarashchanskii"	15	9	157	43776	0
+126	"Kiev"	"Umanskii"	15	10	107	39689	4126
+127	"Kiev"	"Cherkasskii"	15	2	170	48736	0
+128	"Kiev"	"Chigirinskii"	15	3	440	30440	0
+129	"Kostroma"	"Kostromskoi"	16	7	1488	3540	15970
+130	"Kostroma"	"Byiskii"	16	1	1212	3235	12533
+131	"Kostroma"	"Varnavinskii"	16	11	135	476	22295
+132	"Kostroma"	"Vetluzhskii"	16	12	301	2915	14855
+133	"Kostroma"	"Galichskii"	16	3	1482	3713	14408
+134	"Kostroma"	"Kineshemskii"	16	5	935	2344	22291
+135	"Kostroma"	"Kologrivskii"	16	6	551	3744	17495
+136	"Kostroma"	"Makar'evskii"	16	8	540	2329	6605
+137	"Kostroma"	"Nerekhtskii"	16	9	1146	2419	37817
+138	"Kostroma"	"Soligalichskii"	16	10	1092	2440	12565
+139	"Kostroma"	"Chukhlomskii"	16	2	751	1527	12500
+140	"Kostroma"	"Iur'evetskii"	16	4	439	452	16476
+141	"Kovno"	"Kovenskii"	17	1	1151	10464	1585
+142	"Kovno"	"Vilkomirskii"	17	7	1948	26590	612
+143	"Kovno"	"Novoaleksandrov"	17	2	1406	25449	1206
+144	"Kovno"	"Ponevezhskii"	17	3	1511	20319	9947
+145	"Kovno"	"Rossienskii"	17	4	848	13721	8397
+146	"Kovno"	"Tel'shevskii"	17	6	64	464	17084
+147	"Kovno"	"Shavel'skii"	17	5	572	17971	10154
+148	"Kurliand"	"Doblenskii"	18	2			
+149	"Kurliand"	"Bausskii"	18	1			
+150	"Kurliand"	"Vindavskii"	18	10			
+151	"Kurliand"	"Gazenpotskii"	18	4			
+152	"Kurliand"	"Gol'dingenskii"	18	5			
+153	"Kurliand"	"Grobinskii"	18	6			
+154	"Kurliand"	"Illukstskii"	18	7			
+155	"Kurliand"	"Tal'senskii"	18	8			
+156	"Kurliand"	"Tukkumskii"	18	9			
+157	"Kurliand"	"Fridrikhshtadtskii"	18	3			
+159	"Kursk"	"Kurskii"	19	6	5336	9464	0
+160	"Kursk"	"Belgorodskii"	19	1	3711	9880	6957
+161	"Kursk"	"Graivoronskii"	19	4	2374	12287	20980
+162	"Kursk"	"Dmitrievskii"	19	2	4188	20149	8318
+163	"Kursk"	"Korochanskii"	19	5	2515	5177	4098
+164	"Kursk"	"L'govskii"	19	7	4135	23733	1995
+165	"Kursk"	"Novooskol'skii"	19	8	2335	12693	11610
+166	"Kursk"	"Oboianskii"	19	9	3030	8804	2583
+167	"Kursk"	"Putivl'skii"	19	10	3379	25868	1261
+168	"Kursk"	"Ryl'skii"	19	11	4249	32317	2575
+169	"Kursk"	"Starooskol'skii"	19	13	3642	9736	6312
+170	"Kursk"	"Sudzhanskii"	19	14	2903	9809	938
+171	"Kursk"	"Timskii"	19	15	5970	7946	473
+172	"Kursk"	"Fatezhskii"	19	3	3561	7446	228
+173	"Kursk"	"Shchigrovskii"	19	12	8743	16339	477
+174	"Lifliand"	"Rizhskii"	20	6			
+175	"Lifliand"	"Valkskii"	20	7			
+176	"Lifliand"	"Vendenskii"	20	8			
+177	"Lifliand"	"Verroskii"	20	9			
+178	"Lifliand"	"Vol'marskii"	20	10			
+179	"Lifliand"	"Pernovskii"	20	5			
+180	"Lifliand"	"Fellinskii"	20	3			
+181	"Lifliand"	"Ezel'skii"	20	2			
+182	"Lifliand"	"Iur'evskii"	20	4			
+184	"Minsk"	"Minskii"	23	4	1045	27950	516
+185	"Minsk"	"Bobruiskii"	23	1	1113	22873	512
+186	"Minsk"	"Borisovskii"	23	2	704	33510	484
+187	"Minsk"	"Igrumenskii"	23	3	800	33666	436
+188	"Minsk"	"Mozyrskii"	23	5	373	19552	64
+189	"Minsk"	"Novogrudskii"	23	6	1645	40980	5240
+190	"Minsk"	"Pinskii"	23	7	848	29751	0
+191	"Minsk"	"Rechitskii"	23	8	324	28166	0
+192	"Minsk"	"Slutskii"	23	9	595	39187	184
+193	"Mogilev"	"Mogilevskii"	24	7	592	33882	254
+194	"Mogilev"	"Bykhovskii"	24	1	679	19872	424
+195	"Mogilev"	"Gomel'skii"	24	4	299	34951	4677
+196	"Mogilev"	"Goretskii"	24	5	650	19878	112
+197	"Mogilev"	"Klimovitskii"	24	6	483	24348	350
+198	"Mogilev"	"Mstislavskii"	24	8	1157	15290	0
+199	"Mogilev"	"Orshanskii"	24	9	538	33325	311
+200	"Mogilev"	"Rogachevskii"	24	10	781	33382	1201
+201	"Mogilev"	"Senninskii"	24	11	1187	22227	55
+202	"Mogilev"	"Chausovskii"	24	2	315	11991	370
+203	"Mogilev"	"Cherikovskii"	24	3	761	26636	569
+204	"Moscow"	"Moskovskii"	25	6	1140	3923	11832
+205	"Moscow"	"Bogorodskii"	25	1	538	2012	28785
+206	"Moscow"	"Bronnitskii"	25	2	681	5025	26930
+207	"Moscow"	"Vereiskii"	25	11	469	3496	7990
+208	"Moscow"	"Volokolamskii"	25	12	766	10889	8439
+209	"Moscow"	"Dmitrovskii"	25	3	923	6630	6138
+210	"Moscow"	"Zvenigorodskii"	25	13	968	7329	8620
+211	"Moscow"	"Klinskii"	25	4	910	6600	11390
+212	"Moscow"	"Kolomenskii"	25	5	1351	3412	19936
+213	"Moscow"	"Mozhaiskii"	25	7	654	10182	2767
+214	"Moscow"	"Podol'skii"	25	8	700	4220	8320
+215	"Moscow"	"Ruzkii"	25	9	906	8610	8825
+216	"Moscow"	"Serpukhovskii"	25	10	710	3142	9514
+217	"Nizhegorod"	"Nizhegorodskii"	26	8	860	5166	36633
+218	"Nizhegorod"	"Ardatovskii"	26	1	1340	14016	26077
+219	"Nizhegorod"	"Arzamasskii"	26	2	1191	16302	18598
+220	"Nizhegorod"	"Balakhninskii"	26	3	246	136	26430
+221	"Nizhegorod"	"Vasil'skii"	26	11	731	12037	11407
+222	"Nizhegorod"	"Gorbatovskii"	26	4	860	4838	34875
+223	"Nizhegorod"	"Kniagininskii"	26	5	1063	12188	22462
+224	"Nizhegorod"	"Luk'ianovskii"	26	6	1044	24112	7970
+225	"Nizhegorod"	"Makar'evskii"	26	7	439	2719	23027
+226	"Nizhegorod"	"Semenovskii"	26	9	180	0	13099
+227	"Nizhegorod"	"Sergachskii"	26	10	1343	17833	15816
+228	"Novgorod"	"Novgorodskii"	27	7	1292	5790	9409
+229	"Novgorod"	"Borovichskii"	27	2	1727	18087	9672
+230	"Novgorod"	"Belozerskii"	27	1	991	6512	6758
+231	"Novgorod"	"Valdaiskii"	27	11	952	5892	9220
+232	"Novgorod"	"Demianskii"	27	4	1029	9970	5465
+233	"Novgorod"	"Kirillovskii"	27	5	352	2224	1375
+234	"Novgorod"	"Krestetskii"	27	6	787	4258	5441
+235	"Novgorod"	"Starorusski"	27	8			
+236	"Novgorod"	"Tikhvinskii"	27	9	995	6651	2565
+237	"Novgorod"	"Ustiuzhenkii"	27	10	1253	11992	6629
+238	"Novgorod"	"Cherepovetskii"	27	3	900	8256	10405
+239	"Olonets"	"Petrozavodskii"	28	4	48	39	122
+240	"Olonets"	"Vytegorskii"	28	7	88	653	1326
+241	"Olonets"	"Kargopol'skii"	28	1	18	17	13
+242	"Olonets"	"Lodeinopol'skii"	28	2	224	678	2133
+243	"Olonets"	"Olonetskii"	28	3	12	0	0
+244	"Olonets"	"Povenetskii"	28	5	0	0	36
+245	"Olonets"	"Pudozhskii"	28	6			
+246	"Orenburg"	"Orenburgskii"	29	2	655	7169	575
+247	"Orenburg"	"Verkhneural'skii"	29	5			
+248	"Orenburg"	"Orskii"	29	3			
+249	"Orenburg"	"Troitskii"	29	4	18	284	1142
+250	"Orenburg"	"Cheliabinskii"	29	1	57	263	37
+251	"Orlov"	"Orlovskii"	30	10	2900	20651	10975
+252	"Orlov"	"Bolkhovskii"	30	1	3143	28557.8383007702	5235.16169922983
+253	"Orlov"	"Brianskii"	30	2	1902	18110.0960194568	3319.90398054317
+254	"Orlov"	"Dmitrovskii"	30	3	1536	11944	18146
+255	"Orlov"	"Eletskii"	30	4	6735	24014.6802886096	4402.31971139035
+256	"Orlov"	"Karachevskii"	30	5	3224	21359.4342926632	3915.56570733685
+257	"Orlov"	"Kromskii"	30	6	1555	13937	2831
+258	"Orlov"	"Livenskii"	30	7	7220	23948	2900
+259	"Orlov"	"Maloarkhangel'skii"	30	8	6938	25419.2057008512	4659.79429914876
+260	"Orlov"	"Mtsenskii"	30	9	4028	23197	3804
+261	"Orlov"	"Sevskii"	30	11	2662	19961	99
+262	"Orlov"	"Trubchevskii"	30	12	972	7970	2918
+263	"Penzen"	"Penzenskii"	31	9	2670	26178	4578
+264	"Penzen"	"Gorodishchenskii"	31	2	2041	26378	3958
+265	"Penzen"	"Insanskii"	31	3	1577	18919	7306
+266	"Penzen"	"Kerenskii"	31	4	1362	14872	4895
+267	"Penzen"	"Krasnoslobodskii"	31	5	662	7271	2375
+268	"Penzen"	"Mokshanskii"	31	6	1609	21779	4480
+269	"Penzen"	"Narovchatskii"	31	7	1427	6646	1902
+270	"Penzen"	"Nizhelomovskii"	31	8	1853	11455	6712
+271	"Penzen"	"Saranskii"	31	10	1375	18779	9935
+272	"Penzen"	"Chembarskii"	31	1	1738	23810	10472
+273	"Perm"	"Permskii"	32	9	1339	39791	0
+274	"Perm"	"Verkhoturskii"	32	12			
+275	"Perm"	"Ekaterinburgskii"	32	2	168	1861	17
+276	"Perm"	"Irbitskii"	32	3	15	319	12
+277	"Perm"	"Kamyshlovskii"	32	4			
+278	"Perm"	"Krasnoufimskii"	32	5	105	966	235
+279	"Perm"	"Kungurskii"	32	6	3	1471	8
+280	"Perm"	"Osinskii"	32	8	20	2576	805
+281	"Perm"	"Okhanskii"	32	7	456	35890	0
+282	"Perm"	"Solikamskii"	32	11	994	37372	1867
+283	"Perm"	"Cherdynskii"	32	1	0	490	0
+284	"Perm"	"Shadrinskii"	32	10	0	0	85
+285	"Podol'sk"	"Kamenets-Podol'skii"	35	5	252	43455	0
+286	"Podol'sk"	"Baltskii"	35	1	202	31668	9692
+287	"Podol'sk"	"Bratslavskii"	35	2	245	56153	9117
+288	"Podol'sk"	"Vinnitskii"	35	12	297	38125	0
+289	"Podol'sk"	"Gaisinskii"	35	3	108	45090	0
+290	"Podol'sk"	"Letichevskii"	35	6	296	21309	0
+291	"Podol'sk"	"Litinskii"	35	7	393	37591	0
+292	"Podol'sk"	"Mogilevskii"	35	8	761	43559	0
+293	"Podol'sk"	"Ol'gopol'skii"	35	10	134	54632	0
+294	"Podol'sk"	"Proskurovskii"	35	11	64	49459	0
+295	"Podol'sk"	"Novo-Ushchitskii"	35	9	164	37667	0
+296	"Podol'sk"	"Iampol'skii"	35	4	347	50374	0
+297	"Poltava"	"Poltavskii"	36	11	4669	17949	81
+298	"Poltava"	"Gadiachskii"	36	1	1645	17187	436
+299	"Poltava"	"Zen'kovskii"	36	14	2414	7417	0
+300	"Poltava"	"Zolotonoshskii"	36	15	3145	24274	162
+301	"Poltava"	"Kobeliakskii"	36	3	1763	13718	46
+302	"Poltava"	"Konstantinogradskii"	36	4	4005	27394	144
+303	"Poltava"	"Kremenchugskii"	36	5	2667	15158	25
+304	"Poltava"	"Lokhvitskii"	36	6	3025	16260	44
+305	"Poltava"	"Lubenskii"	36	7	2115	10839	32
+306	"Poltava"	"Mirgorodskii"	36	8	2463	16495	125
+307	"Poltava"	"Pereiaslavskii"	36	9	2762	16990	66
+308	"Poltava"	"Piriatinskii"	36	10	1762	30060	38
+309	"Poltava"	"Prilukskii"	36	12	2521	30676	44
+310	"Poltava"	"Romenskii"	36	13	3829	17734	221
+311	"Poltava"	"Khorol'skii"	36	2	2002	21727	185
+312	"Pskov"	"Pskovskii"	37	6	715	9500	4570
+313	"Pskov"	"Velikolutskii"	37	8	1430	20576	1570
+314	"Pskov"	"Novorzhevskii"	37	2	1286	16937	5425
+315	"Pskov"	"Opochetskii"	37	3	965	10734	6678
+316	"Pskov"	"Ostrovskii"	37	4	697	13011	3922
+317	"Pskov"	"Porkhovskii"	37	5	2396	31087	11801
+318	"Pskov"	"Toropetskii"	37	7	1301	18000	1885
+319	"Pskov"	"Kholmskii"	37	1	1225	13512	4565
+320	"Riazan"	"Riazanskii"	39	7	1259	6783	8768
+321	"Riazan"	"Dankovskii"	39	1	408	4569	0
+322	"Riazan"	"Egor'evskii"	39	2	415	497	12658
+323	"Riazan"	"Zaraiskii"	39	12	2145	8558	13881
+324	"Riazan"	"Kasimovskii"	39	3	216	0	13205
+325	"Riazan"	"Mikhailovskii"	39	4	1533	12750	2309
+326	"Riazan"	"Pronskii"	39	5	488	2703	972
+327	"Riazan"	"Ranenburgskii"	39	6	1048	12938	0
+328	"Riazan"	"Riazhskii"	39	8	2000	14501	1190
+329	"Riazan"	"Sapozhkovskii"	39	9	1979	24382	4391
+330	"Riazan"	"Skopinskii"	39	10	981	7684	0
+331	"Riazan"	"Spasskii"	39	11	1129	11414	8419
+332	"Samara"	"Samarskii"	40	6	1172	11162	8270
+333	"Samara"	"Bugul'minskii"	40	1	677	5745	2231
+334	"Samara"	"Buguruslanskii"	40	2	2450	14160	6146
+335	"Samara"	"Buzulukskii"	40	3	1711	12028	710
+336	"Samara"	"Nikolaevskii"	40	4	690	13633	1724
+337	"Samara"	"Novouzenskii"	40	5	210	2007	369
+338	"Samara"	"Stavropol'skii"	40	7	1515	19773	1743
+339	"Sankt-Peterburg"	"Sankt-Peterburgskii"	41	6	485	2954	3264
+340	"Sankt-Peterburg"	"Gdovskii"	41	1			
+341	"Sankt-Peterburg"	"Luzhskii"	41	3	1891	12340	15919
+342	"Sankt-Peterburg"	"Novoladozhskii"	41	4	910	4443	10648
+343	"Sankt-Peterburg"	"Petergrofskii"	41	5	575	3096	8661
+344	"Sankt-Peterburg"	"Tsarskosel'skii"	41	8	385	3076	4709
+345	"Sankt-Peterburg"	"Shlissel'burgskii"	41	7			
+346	"Sankt-Peterburg"	"Iamburgskii"	41	2	602	0	15792
+348	"Saratov"	"Saratovskii"	42	7			
+349	"Saratov"	"Atkarskii"	42	1			
+350	"Saratov"	"Balashevskii"	42	2			
+351	"Saratov"	"Volgskii"	42	10			
+352	"Saratov"	"Kamyshinskii"	42	3			
+353	"Saratov"	"Kuznetskii"	42	5			
+354	"Saratov"	"Petrovskii"	42	6			
+355	"Saratov"	"Serdobskii"	42	8			
+356	"Saratov"	"Khvalynskii"	42	4			
+357	"Saratov"	"Tsaritsynskii"	42	9			
+358	"Simbirsk"	"Simbirskii"	44	7	2039	26218	160
+359	"Simbirsk"	"Alatyrskii"	44	1	909	8378	12447
+360	"Simbirsk"	"Ardatovskii"	44	2	1267	16068	6506
+361	"Simbirsk"	"Byinskii"	44	3	536	5707	332
+362	"Simbirsk"	"Korsunskii"	44	4	2018	34081	10032
+363	"Simbirsk"	"Kurmyshskii"	44	5	1692	16256	2404
+364	"Simbirsk"	"Sengileiskii"	44	6	1504	16973	5771
+365	"Simbirsk"	"Syzranskii"	44	8	2925	27986	12344
+366	"Smolensk"	"Smolenskii"	45	10	2661	20671	201
+367	"Smolensk"	"Bel'skii"	45	1	3342	27152	10296
+368	"Smolensk"	"Viazemskii"	45	12	1645	16291	9274
+369	"Smolensk"	"Gzhatskii"	45	5	890	10580	26448
+370	"Smolensk"	"Dorogobuzhskii"	45	2	1624	20073	1887
+371	"Smolensk"	"Dukhovshchinskii"	45	3	2522	19306	978
+372	"Smolensk"	"El'ninskii"	45	4	2067	28932	7233
+373	"Smolensk"	"Krasninskii"	45	7	1771	19173	23
+374	"Smolensk"	"Porechskii"	45	8	1319	12992	2125
+375	"Smolensk"	"Roslavl'skii"	45	9	3184	39000	243
+376	"Smolensk"	"Sychevskii"	45	11	728	17034	10392
+377	"Smolensk"	"Iukhnovskii"	45	6	1870	14704	22519
+378	"Tambov"	"Tambovskii"	47	10	6008	37072	1679
+379	"Tambov"	"Borisoglebski"	47	1	2323	13530	2522
+380	"Tambov"	"Elatomskii"	47	2	2694	15728	20231
+381	"Tambov"	"Kirsanovskii"	47	3	4514	42508	7979
+382	"Tambov"	"Kozlovskii"	47	4	4883	24194	2020
+383	"Tambov"	"Lebedianskii"	47	5	1552	9073	1565
+384	"Tambov"	"Lipetskii"	47	6	2647	6540	529
+385	"Tambov"	"Morshanskii"	47	7	2109	31787	9084
+386	"Tambov"	"Spasskii"	47	9	847	6597	1043
+387	"Tambov"	"Temnikovskii"	47	11	2423	10443	5045
+388	"Tambov"	"Usmanskii"	47	12	2439	9822	300
+389	"Tambov"	"Shatskii"	47	8	1801	13875	11658
+390	"Tavrich"	"Simferopol'skii"	48	8	496	872	0
+391	"Tavrich"	"Berdianskii"	48	1	159	1032	0
+392	"Tavrich"	"Dneprovskii"	48	2	159	1032	0
+393	"Tavrich"	"Evpatoriiskii"	48	3	69	803	0
+394	"Tavrich"	"Melitopol'skii"	48	6	303	7638	0
+395	"Tavrich"	"Perekopskii"	48	7	169	501	0
+396	"Tavrich"	"Ialtinskii"	48	5	79	90	0
+397	"Tavrich"	"Feodossiiskoi"	48	4	450	1639	0
+400	"Tul'a"	"Tul'skii"	49	11	3532	15052	10405
+401	"Tul'a"	"Aleksinskii"	49	1	2221	14355	11981
+402	"Tul'a"	"Bogoroditskii"	49	3	2777	24771	25928
+403	"Tul'a"	"Belevskii"	49	2	1750	13785	5346
+404	"Tul'a"	"Venevskii"	49	12	3179	24127	5755
+405	"Tul'a"	"Epifanskii"	49	6	2424	28678	9346
+406	"Tul'a"	"Efremovskii"	49	5	2179	31979	2976
+407	"Tul'a"	"Kashirskii"	49	7	3269	19589	7294
+408	"Tul'a"	"Krapivenskii"	49	8	2853	24213	4046
+409	"Tul'a"	"Novosil'skii"	49	9	2921	24233	1633
+410	"Tul'a"	"Odoevskii"	49	10	2615	20350	5119
+411	"Tul'a"	"Chernskii"	49	4	2811	31399	2558
+413	"Tver"	"Tverskoi"	50	9	1280	11215	13584
+414	"Tver"	"Bezhetskii"	50	1	1617	19530	12809
+415	"Tver"	"Ves'egonskii"	50	10	1107	8732	8465
+416	"Tver"	"Vyshnevolotskii"	50	11	1968	13779	14078
+417	"Tver"	"Zubtsovskii"	50	12	1107	14211	3551
+418	"Tver"	"Kaliazinskii"	50	2	965	10355	9151
+419	"Tver"	"Kashinskii"	50	3	1702	17229	9817
+420	"Tver"	"Korchevskii"	50	4	1093	1125	7571
+421	"Tver"	"Novotorzhskii"	50	5	2340	24704	8192
+422	"Tver"	"Ostashkovskii"	50	6	1259	12489	6830
+423	"Tver"	"Rzhevskii"	50	7	1805	15936	18863
+424	"Tver"	"Staritskii"	50	8	1653	16097	4589
+425	"Ufa"	"Ufimskii"	51	5	1527	12823	397
+426	"Ufa"	"Belebeiskii"	51	1	491	7731	525
+427	"Ufa"	"Birskii"	51	2	286	2016	1215
+428	"Ufa"	"Zlatoustskii"	51	6			
+429	"Ufa"	"Menzelinskii"	51	3	1101	12124	912
+430	"Ufa"	"Steplitamakskii"	51	4	546	7567	346
+431	"Viatka"	"Viatskii"	53	11	0	65	0
+432	"Viatka"	"Glazovskii"	53	2	0	0	0
+433	"Viatka"	"Elabuzhkii"	53	1	184	2508	0
+434	"Viatka"	"Kotel'nicheskii"	53	4	0	0	0
+435	"Viatka"	"Malmyzhskii"	53	5	265	1701	0
+436	"Viatka"	"Nolinskii"	53	6	0	0	136
+437	"Viatka"	"Orlovskii"	53	7	0	0	0
+438	"Viatka"	"Sarapul'skii"	53	8	105	552	0
+439	"Viatka"	"Slobodskoi"	53	9	0	39	0
+440	"Viatka"	"Urzhumskii"	53	10	112	751	0
+441	"Viatka"	"Iaranskii"	53	3	59	377	10722
+442	"Vilno"	"Vilenskii"	54	7	1158	14590	2091
+443	"Vilno"	"Vileiskii"	54	6	970	19126	568
+444	"Vilno"	"Disnenskii"	54	1	537	20732	1057
+445	"Vilno"	"Lidskii"	54	2	867	12897	155
+446	"Vilno"	"Oshmianskii"	54	3	1529	23879	4565
+447	"Vilno"	"Sventsianskii"	54	4	998	17864	1638
+448	"Vilno"	"Trokskii"	54	5	1081	9363	83
+449	"Vitebsk"	"Vitebskii"	55	12	700	10988	0
+450	"Vitebsk"	"Velizhskii"	55	11	279	13131	0
+451	"Vitebsk"	"Gorodokskii"	55	3	156	5562	0
+452	"Vitebsk"	"Dvinskii"	55	13	301	2759	0
+453	"Vitebsk"	"Drissenskii"	55	2	256	18919	0
+454	"Vitebsk"	"Lepel'skii"	55	4	1118	22301	0
+455	"Vitebsk"	"Liutsinskii"	55	5	379	20163	0
+456	"Vitebsk"	"Nevel'skii"	55	6	650	20217	0
+457	"Vitebsk"	"Polotskii"	55	7	724	15604	0
+458	"Vitebsk"	"Rezhitskii"	55	8	338	24404	0
+459	"Vitebsk"	"Sebezhskii"	55	9	559	16618	0
+461	"Vitebsk"	"Surazhskii"	55	10	495	11399	0
+462	"Vladimir"	"Vladimirskii"	56	13	1040	10222	9527
+463	"Vladimir"	"Aleksandrovskii"	56	1	1351	5528	10865
+464	"Vladimir"	"Vianikovskii"	56	12	612	291	21337
+465	"Vladimir"	"Gorokhovskii"	56	2	483	2076	30610
+466	"Vladimir"	"Kovrovskii"	56	4	893	4850	20492
+467	"Vladimir"	"Melenkovskii"	56	5	5055	17452	8539
+468	"Vladimir"	"Muromskii"	56	6	497	6479	23357
+469	"Vladimir"	"Pereslavskii"	56	7	1177	9404	7500
+470	"Vladimir"	"Pokrovskii"	56	8	1172	5879	22331
+471	"Vladimir"	"Sudogodskii"	56	10	1074	6279	12914
+472	"Vladimir"	"Suzdal'skii"	56	11	1000	6928	9853
+473	"Vladimir"	"Shuiskii"	56	9	833	2381	34654
+474	"Vladimir"	"Iur'evskii"	56	3	1545	17152	8056
+475	"Vologoda"	"Vologodskii"	57	11	1667	8518	25410
+476	"Vologoda"	"Vel'skii"	57	10			
+477	"Vologoda"	"Griazovetskii"	57	2	1043	5088	8993
+478	"Vologoda"	"Kadnikovskii"	57	4	832	1910	46907
+479	"Vologoda"	"Nikol'skii"	57	5	41	91	1268
+480	"Vologoda"	"Sol'vychegodskii"	57	6			
+481	"Vologoda"	"Totemskii"	57	7	53	231	846
+482	"Vologoda"	"Ust'sysol'skii"	57	9	6		
+483	"Vologoda"	"Ustiugskii"	57	8	30	9	1
+484	"Vologoda"	"Iarenskii"	57	3			
+485	"Volyna"	"Zhitomirskii"	58	12	904	49756	0
+486	"Volyna"	"Vladimirskii"	58	10	614	30456	0
+487	"Volyna"	"Dubenskii"	58	1	479	26737	0
+488	"Volyna"	"Zaslavskii"	58	11	188	40677	0
+489	"Volyna"	"Kovel'skii"	58	2	481	22874	0
+490	"Volyna"	"Kremenetskii"	58	3	259	39296	0
+491	"Volyna"	"Lutskii"	58	4	579	26540	0
+492	"Volyna"	"Novogradvolynskii"	58	5	630	48114	0
+493	"Volyna"	"Ovruchskii"	58	7	1504	20109	0
+494	"Volyna"	"Ostrozhskii"	58	6	321	30379	0
+495	"Volyna"	"Rovenskii"	58	8	504	34715	0
+496	"Volyna"	"Starokonstantinovskii"	58	9	435	41344	0
+497	"Voronezh"	"Voronezhskii"	59	10	4636	13253	832
+498	"Voronezh"	"Biriuchenskii"	59	1	2919	8815	43725
+499	"Voronezh"	"Bobrovskii"	59	2	1473	16178	10789
+500	"Voronezh"	"Bogucharskii"	59	3	2068	7236	3380
+501	"Voronezh"	"Valuiskii"	59	9	2495	10507	3157
+502	"Voronezh"	"Zadonskii"	59	11	2295	11436	4022
+503	"Voronezh"	"Zemlianskii"	59	12	5173	16613	507
+504	"Voronezh"	"Korotoiakskii"	59	4	1358	2751	191
+505	"Voronezh"	"Nizhnedevitskii"	59	5	3234	3943	1432
+506	"Voronezh"	"Novokhoperskii"	59	6	1950	6818	5610
+507	"Voronezh"	"Ostrogozhskii"	59	7	3896	19742	12146
+508	"Voronezh"	"Pavlovskii"	59	8	537	6232	15023
+509	"Zemlia voiska donskogo"	"Cherkasskii"	60	1	456	2879	33
+510	"Zemlia voiska donskogo"	"Donetskii"	60	2	3053	27377	0
+511	"Zemlia voiska donskogo"	"Pervyi Donskoi"	60	5	532	4895	0
+512	"Zemlia voiska donskogo"	"Vtoroi Donskoi"	60	10	1280	5189	777
+513	"Zemlia voiska donskogo"	"Rostovskii"	60	6			
+514	"Zemlia voiska donskogo"	"Sal'skii"	60	7			
+515	"Zemlia voiska donskogo"	"Taganrogskii"	60	8			
+516	"Zemlia voiska donskogo"	"Ust'-Medveditskii"	60	9	1664	8854	1339
+517	"Zemlia voiska donskogo"	"Khoperskii"	60	3	2717	5595	275
