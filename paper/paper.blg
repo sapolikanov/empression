@@ -1,0 +1,25 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'paper.blg'
+[92] biber-MSWIN64:340> INFO - === 
+[119] Biber.pm:420> INFO - Reading 'paper.bcf'
+[232] Biber.pm:994> INFO - Found 17 citekeys in bib section 0
+[251] Biber.pm:4463> INFO - Processing section 0
+[262] Biber.pm:4654> INFO - Looking for bibtex file '../bibliography/bibliography.bib' for section 0
+[298] bibtex.pm:1713> INFO - LaTeX decoding ...
+[335] bibtex.pm:1519> INFO - Found BibTeX data source '../bibliography/bibliography.bib'
+[476] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[476] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[477] Biber.pm:4283> INFO - Sorting list 'apa/apasortcite//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[477] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[507] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[507] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[507] Biber.pm:4283> INFO - Sorting list 'apa/global//global/global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[507] Biber.pm:4289> INFO - No sort tailoring available for locale 'en-US'
+[527] bbl.pm:676> INFO - Writing 'paper.bbl' with encoding 'UTF-8'
+[551] bbl.pm:779> INFO - Output to paper.bbl
+[551] Biber.pm:131> WARN - ISBN '978-0-511-97494-6 978-0-521-19448-8' in entry 'dennison_institutional_2011' is invalid - run biber with '--validate_datamodel' for details.
+[551] Biber.pm:131> WARN - ISBN '978-1-316-67836-7 978-1-107-16279-2 978-1-316-61496-9' in entry 'boucoyannis_kings_2021' is invalid - run biber with '--validate_datamodel' for details.
+[551] Biber.pm:131> WARN - ISBN '978-0-511-51002-1 978-0-511-29044-2' in entry 'davenport_state_2007' is invalid - run biber with '--validate_datamodel' for details.
+[551] Biber.pm:131> WARN - ISBN '978-0-521-85526-6 978-0-521-67142-2 978-0-511-51080-9' in entry 'acemoglu_economic_2005' is invalid - run biber with '--validate_datamodel' for details.
+[551] Biber.pm:131> WARN - ISBN '978-1-107-13984-8 978-1-316-50531-1 978-1-316-48903-1' in entry 'greitens_dictators_2016' is invalid - run biber with '--validate_datamodel' for details.
+[551] Biber.pm:133> INFO - WARNINGS: 5

@@ -1,0 +1,148 @@
+\documentclass[10pt]{scrarticle}
+% Essential packages
+\usepackage{graphicx}         % For including graphics/images
+\usepackage{xcolor}           % For color text and colored elements
+\usepackage{hyperref}         % For clickable hyperlinks in PDF
+\usepackage[T1]{fontenc}      % Use T1 font encoding (better handling of accented characters)
+\usepackage{amsmath,          % American Mathematical Society math extensions
+            amsfonts,         % Additional math fonts
+            amssymb,          % Additional math symbols
+            amsthm,           % Theorem environment support
+            mathtools}        % Enhances amsmath with extra tools
+
+\usepackage{csquotes}         % Context-sensitive quotation marks, required by biblatex
+\usepackage[english]{babel}   % Language-specific typography and hyphenation (here: English)
+
+% Captioning and subfigures
+\usepackage{caption}          % Customizing captions
+\usepackage{subcaption}       % Sub-figures and sub-tables
+
+% Tables and tabular enhancements
+\usepackage{longtable}        % Multi-page tables
+\usepackage{array}            % Extends tabular environment
+\usepackage{multirow}         % Table cells spanning multiple rows
+\usepackage{wrapfig}          % Wrapping text around figures
+\usepackage{colortbl}         % Color in tables
+\usepackage{pdflscape}        % Landscape pages in PDF (auto-rotating)
+\usepackage{tabu}             % Flexible tables (now outdated and deprecated)
+\usepackage{threeparttable}   % Notes under tables
+\usepackage{threeparttablex}  % Extended version of above with longtable support
+\usepackage{makecell}         % Custom line breaks and formatting in table cells
+\usepackage{siunitx}          % Proper typesetting of units and numbers
+\usepackage{float}            % Improved float positioning (e.g., [H] specifier)
+\usepackage{booktabs}         % Professional-quality tables (rules, spacing)
+
+% Fonts and spacing
+\usepackage{lmodern}          % Latin Modern font (scalable, better for PDF)
+\usepackage{setspace}         % Control line spacing
+\usepackage[bottom]{footmisc} % Place footnotes at bottom of page consistently
+
+% Bibliography
+\usepackage[style = apa]{biblatex} % APA citation style using biblatex
+\addbibresource{../bibliography/bibliography.bib} % Bibliography file
+
+% Layout
+\usepackage[a4paper, vmargin=3.3cm, hmargin=3.3cm]{geometry} % Set page size and margins
+
+% Prevent widows/orphans
+\widowpenalty=10000 % Avoid single lines of paragraphs at the top/bottom of pages
+
+% KOMA-Script settings
+\addtokomafont{disposition}{\rmfamily} % Use roman font for section headings
+
+% Custom title formatting
+\makeatletter
+\renewcommand{\maketitle}{
+  \begin{center}
+    {\usekomafont{title}{\LARGE\@title\par}}%
+    \vskip 1em 
+    {\usekomafont{subtitle}{\large\@subtitle\par}}%
+    \vskip 1em   
+    {\usekomafont{author}{\@author\par}}%
+  \end{center}
+}
+\makeatother
+
+% Hyperref customization
+\hypersetup{
+        unicode = false,                    % non-Latin characters in Acrobat’s bookmarks
+        pdftoolbar = true,                  % show Acrobat’s toolbar?
+        pdfmenubar = true,                  % show Acrobat’s menu?
+        pdffitwindow = false,               % window fit to page when opened
+        pdfstartview = {FitH},              % fits the width of the page to the window
+        pdftitle = {},                      % title
+        pdfauthor = {},     % author
+        pdfsubject = {Subject},             % subject of the document
+        pdfcreator = {},    % creator of the document
+        pdfproducer = {},                   % producer of the document
+        pdfkeywords = {},                   % list of keywords
+        pdfnewwindow = true,                % links in new PDF window
+        colorlinks = true,                  % false: boxed links; true: colored links
+        linkcolor = teal,                   % color of internal links (change box color with linkbordercolor)
+        citecolor = teal,                   % color of links to bibliography
+        filecolor = cyan,                   % color of file links
+        urlcolor = red                      % color of external links
+    }   
+
+% Spacing configuration
+\setstretch{1}                      % Single line spacing
+\setlength{\parindent}{15pt}       % Paragraph indentation
+\setlength{\parskip}{2pt}          % Spacing between paragraphs
+\setlength{\skip\footins}{15pt}    % Spacing before footnotes
+
+% Image settings
+\setkeys{Gin}{keepaspectratio}     % Maintain image proportions when scaling
+
+% Title
+\title{Title}
+\subtitle{Subtitle}
+\author{Author}
+
+% Document
+\begin{document}
+
+\maketitle
+
+\section{Theoretical framework}
+
+\subsection{Legacies of serfdom}
+
+For much of the Russian Empire’s history, serfdom formed the backbone of its agrarian economy, social hierarchy, and political order. By the mid-19th century, roughly one-third of the empire’s population — and over 50\% of the peasantry in central regions — were bound by forms of personal and economic dependence that left them legally subordinate and territorially immobile. Serfs were tethered to noble landlords through a system of customary obligations and judicial inequality, performing labor services or paying rents while lacking the right to freely move, contract, or petition the state independently \cite{dennison_institutional_2011,gerschenkron_economic_1979}. Unlike chattel slavery, serfdom in Russia entailed communal obligations and paternalistic oversight rather than commodified ownership, but its effects on social stratification were no less severe.
+
+The institution was not merely economic — it was deeply political. Serfdom entrenched elite control over both land and legal authority, making the local nobility indispensable to imperial administration. In return for their loyalty, landlords were granted wide discretion over judicial and fiscal matters on their estates. This created a dual state: a formal imperial bureaucracy and a shadow structure of private rule. As \cite{boucoyannis_kings_2021} and \cite{dower_collective_2017} suggest, this arrangement inhibited the development of representative institutions and discouraged state-building from below. Where other European polities saw gradual incorporation of peasant interests into local governance or national assemblies, the Russian state relied on a coercive agrarian order that marginalized peasant political agency and blocked pathways to participation.
+
+Though serfdom was formally abolished in 1861, its institutional and social structures persisted deep into the late 19th century, shaping the material conditions and political identities of the Russian peasantry. Emancipation created a class of legally free but economically constrained rural producers. The 1861 reform granted land not as private property, but as \textit{nadel} allotments distributed through the communal landholding institution (\textit{mir}), reinforcing a system that preserved hierarchical dependence and impeded upward mobility. As numerous scholars have shown, this arrangement failed to meaningfully redistribute productive land, leaving former serfs with small, fragmented plots and subject to redemption payments to their former landlords \cite{markevich_economic_2018,gerschenkron_economic_1979,buggle_slow_2021}.
+
+These post-reform structures institutionalized deprivation. While communal governance offered internal cohesion, it also operated under state surveillance and favored vertical compliance over horizontal mobilization \cite{dennison_living_2012}. The \textit{mir} system limited market participation and formalized the peasant’s subordination within the local estate hierarchy, often mediated by noble-dominated zemstvo councils. As \cite{popov_factors_2023} and \cite{finkel_does_2015} show, the mismatch between legal emancipation and continued material inequality created a volatile political terrain. Peasants were legally recognized as autonomous persons but were institutionally contained through systems that precluded effective control over land, credit, or legal recourse.
+
+\subsection{Peasant unrest}
+
+It was in this institutional context that the Russian peasantry developed distinct repertoires of collective action. Peasant unrest was not merely episodic violence or irrational revolt—it was a form of reactive and adaptive political behavior. Drawing on long-standing communal norms of mutual aid and grievance redress, peasants mobilized to contest the unfulfilled promises of reform. As \cite{finkel_does_2015} argue, the very structure of the post-emancipation settlement encouraged protest: it clarified legal expectations without delivering meaningful autonomy or land security.
+
+Between the 1850s and 1870s, Russia experienced waves of rural disturbances that varied in scale and form. Some incidents focused narrowly on land seizures or tax refusals; others evolved into protracted confrontations with local officials, landlords, and police. The peasant movement was spatially uneven but politically coherent. Regions with high serf populations prior to 1861—and especially those with persistent land inequality—were more likely to experience violent unrest \cite{kofanov_land_2020}. \cite{dower_collective_2017} and \cite{popov_factors_2023} show that unrest was particularly acute in areas where the communal landholding system failed to mitigate inequality or was manipulated by local elites.
+
+This form of protest—while lacking formal leadership or consistent ideological framing—was rooted in shared experiences of economic injustice and legal disappointment. Its intensity stemmed not from revolutionary doctrine but from the practical impossibility of making a living under post-reform constraints. In this sense, peasant unrest in late imperial Russia was a form of institutional negotiation from below,” in which demands for access to land and autonomy were staged against a background of formal emancipation and persistent subjugation.
+
+These uprisings did not go unnoticed by the state. Not only did they trigger alarm about agrarian stability, they were also seen as precursors to more organized revolutionary activity. Indeed, unrest was a key channel through which rural discontent entered the political consciousness of urban radicals, leftist parties, and the state’s coercive apparatus. It is precisely in this context that the state’s eventual turn to targeted repression — and the institutional development of both military suppression and Okhrana surveillance — must be understood.
+
+
+\subsection{State responses to bottom-up threats}
+
+Across autocratic and transitional regimes, the state’s response to grassroots mobilization is shaped not solely by the presence of unrest, but by the perceived threat such mobilization poses to elite control. A substantial body of literature argues that regimes respond to bottom-up pressure with a strategic mix of repression, concession, and co-optation \parencite{tilly_mobilization_1978,davenport_state_2007,gandhi_authoritarian_2007}. Whether a regime chooses to incorporate dissenters into institutions or exclude and punish them depends on how threatening it judges their demands to be, and on the feasibility of containing them without altering elite privileges.
+
+In autocracies in particular, where elites are often wary of institutionalizing mass participation, repression emerges as a default tool for neutralizing threats from below. Unlike democracies, where incorporation may increase regime legitimacy or stability, autocracies have fewer incentives to broaden participation when doing so threatens elite interests. The logic is succinctly captured by \cite{acemoglu_economic_2005}: elites concede power only when repression is either too costly or ineffective. Otherwise, the status quo is maintained by force or threat thereof.
+
+Repression, then, is not merely a reaction to disorder — it is a preemptive political choice. As \cite{greitens_dictators_2016} and Slater (2010) both emphasize, autocratic leaders invest in coercive institutions and deploy them selectively, especially in regions where collective action capacity is already high. This strategic deployment ensures that repression is cost-efficient: resources are concentrated where unrest is most threatening to regime continuity, typically areas with a record of protest or existing mobilization structures. Indeed, following \cite{greitens_dictators_2016} typology, regimes facing mass protest invest in internal security institutions such as secret police and surveillance, while those concerned about elite defection focus on coup-proofing strategies. 
+
+In the Russian Empire, mass unrest suppression was a dedicated domain of the military throughout the XIX century. By the early 20th century, the Russian autocracy had already experienced significant rural unrest, most notably during and after the 1861 emancipation. The peasantry, though disenfranchised and institutionally marginalized, remained a large, often discontented segment of society. It was also increasingly politicized — not in a partisan sense, but through exposure to land struggles, redemption payments, commune conflicts, and the experience of collective protest. The 1905 revolution underscored the growing threat: peasant uprisings were widespread and increasingly coordinated. From the perspective of the Tsarist regime, repression was a rational and targeted response to this rising mobilization.
+
+On the other hand, the secret police, \textit{okhrana}, formed in 1881, was a product of a rapidly developing political arena that offered a left-wing ideological voice to the disenchanted peasanty and workers. Okhrana institutions were charged with defending the state from both organized revolutionary threats and, increasingly, from the diffuse politicization of society itself \parencite{daly_autocracy_1998}. To some extent, one can think of the military and okhrana as complementary and specialized responses to different kind of threats. Whilst general peasant dicontent was chiefly handled by military suppression, when it started penetrating previously sequestered political arenas, finer and more precise tools became needed. Indeed, as \cite{daly_autocracy_1998} shows, the boundaries blurred. Peasant unions and agrarian activists became of central concern to the security police by 1905, as the state realized that the real danger lay not just in spontaneous disorder, but in the amalgamation of grievances into cohesive political demands.
+
+What distinguished the Okhrana from the army was not only its bureaucratic specialization but its informational logic. Rather than suppressing mass protest through sheer force, it aimed to prevent its coordination through intelligence. Officers developed complex schematic diagrams tracking personal and professional relationships among suspects. By 1901, the Special Section maintained a library of over 5,000 banned publications and constructed social network charts of revolutionary groups with up to 200 nodes \parencite{daly_autocracy_1998}. These efforts represent what \cite{dimitrov_why_2013} terms ``preemptive authoritarianism'' — the use of surveillance to detect and neutralize threats before they materialize as mass mobilization.
+
+Thus, I approach repression not as a sign of state weakness, but as an instrument of elite rule maintenance in the face of bottom-up demands for redistribution, access, or reform. The state’s behavior in the aftermath of the 1905 revolution — the surveillance of rural activists, the manipulation of curial representation, the selective use of police and military power — fits squarely into this broader pattern of selective coercion in the service of institutional insulation. More importantly, in the Russian Empire, concessions made to political calls of peasantry were always partial - the 1861 abolition of serfdom, zemstvos established shortly after, the 1905 State Duma were all angled at preserving the conservative order rather than actual arenas for agonistic politics. Inability of the state to institute effective cooption that was unnerving to landowner stakeholders meant that repression was required for regime survival.
+
+% Bibliography
+\printbibliography
+
+\end{document}

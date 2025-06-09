@@ -1,0 +1,1769 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{acemoglu_economic_2005}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d849e6f8de178bfb18aa67341c9f8d38}{%
+           family={Acemoglu},
+           familyi={A\bibinitperiod},
+           given={Daron},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=974873287a7760126350afac970c1e81}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{fullhash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{fullhashraw}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{bibnamehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authorbibnamehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authornamehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authorfullhash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authorfullhashraw}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book develops a framework for analyzing the creation and consolidation of democracy. Different social groups prefer different political institutions because of the way they allocate political power and resources. Thus democracy is preferred by the majority of citizens, but opposed by elites. Dictatorship nevertheless is not stable when citizens can threaten social disorder and revolution. In response, when the costs of repression are sufficiently high and promises of concessions are not credible, elites may be forced to create democracy. By democratizing, elites credibly transfer political power to the citizens, ensuring social stability. Democracy consolidates when elites do not have strong incentive to overthrow it. These processes depend on (1) the strength of civil society, (2) the structure of political institutions, (3) the nature of political and economic crises, (4) the level of economic inequality, (5) the structure of the economy, and (6) the form and extent of globalization.}
+      \field{day}{19}
+      \field{edition}{1}
+      \field{isbn}{978-0-521-85526-6 978-0-521-67142-2 978-0-511-51080-9}
+      \field{month}{12}
+      \field{title}{Economic Origins of Dictatorship and Democracy}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9780511510809
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/9780511510809/type/book
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/9780511510809/type/book
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{boucoyannis_kings_2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f04eb11cd75aefe8945d82da9fff41eb}{%
+           family={Boucoyannis},
+           familyi={B\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{fullhash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{fullhashraw}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{bibnamehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authorbibnamehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authornamehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authorfullhash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authorfullhashraw}{f04eb11cd75aefe8945d82da9fff41eb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How did representative institutions become the central organs of governance in Western Europe? What enabled this distinctive form of political organization and collective action that has proved so durable and influential? The answer has typically been sought either in the realm of ideas, in the Western tradition of individual rights, or in material change, especially the complex interaction of war, taxes, and economic growth. Common to these strands is the belief that representation resulted from weak ruling powers needing to concede rights to powerful social groups. Boucoyannis argues instead that representative institutions were a product of state strength, specifically the capacity to deliver justice across social groups. Enduring and inclusive representative parliaments formed when rulers could exercise power over the most powerful actors in the land and compel them to serve and, especially, to tax them. The language of rights deemed distinctive to the West emerged in response to more effectively imposed collective obligations, especially on those with most power.}
+      \field{day}{15}
+      \field{edition}{1}
+      \field{isbn}{978-1-316-67836-7 978-1-107-16279-2 978-1-316-61496-9}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shorttitle}{Kings as Judges}
+      \field{title}{Kings as Judges: Power, Justice, and the Origins of Parliaments}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/9781316678367
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\V6LQIRS7\\Boucoyannis - 2021 - Kings as Judges Power, Justice, and the Origins of Parliaments.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/9781316678367/type/book
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/9781316678367/type/book
+      \endverb
+      \keyw{European representative institutions}
+    \endentry
+    \entry{buggle_slow_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a270ddedc344b0691652e2d400ad8fdb}{%
+           family={Buggle},
+           familyi={B\bibinitperiod},
+           given={Johannes\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{fullhash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{fullhashraw}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{bibnamehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authorbibnamehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authornamehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authorfullhash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authorfullhashraw}{96f1ffd08cf7981686c03af4bbc89e04}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper examines the long-run economic consequences of Russian serfdom. Employing data on the intensity of labor coercion just prior to emancipation in 1861, we document that a 25 percentage point increase in historical serfdom (1 {SD}) reduces household expenditure today by up to 17\%. We then provide evidence on the persistence of this relationship by studying city populations over the period 1800 to 2002. Exploring mechanisms, our findings suggest that less urban agglomeration and slower industrial development in areas with a greater degree of serfdom perpetuated the negative effects of forced labor before, during, and after the Soviet period.}
+      \field{issn}{0034-6535, 1530-9142}
+      \field{journaltitle}{The Review of Economics and Statistics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Review of Economics and Statistics}
+      \field{shorttitle}{The Slow Road from Serfdom}
+      \field{title}{The Slow Road from Serfdom: Labor Coercion and Long-Run Development in the Former Russian Empire}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{103}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1162/rest_a_00857
+      \endverb
+      \verb{file}
+      \verb Submitted Version:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\8YA6VP4U\\Buggle and Nafziger - 2021 - The Slow Road from Serfdom Labor Coercion and Long-Run Development in the Former Russian Empire.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/rest/article/103/1/1-17/97761
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/rest/article/103/1/1-17/97761
+      \endverb
+    \endentry
+    \entry{daly_autocracy_1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f26897b7eaecb43e7fc636881ca1210a}{%
+           family={Daly},
+           familyi={D\bibinitperiod},
+           given={Jonathan\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {{DeKalb}, Ill}%
+      }
+      \list{publisher}{1}{%
+        {Northern Illinois University Press}%
+      }
+      \strng{namehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{fullhash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{fullhashraw}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{bibnamehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authorbibnamehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authornamehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authorfullhash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authorfullhashraw}{f26897b7eaecb43e7fc636881ca1210a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-87580-243-5}
+      \field{pagetotal}{260}
+      \field{shorttitle}{Autocracy under siege}
+      \field{title}{Autocracy under siege: security police and opposition in Russia, 1866 - 1905}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Table of Contents PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\4DJLSXZJ\\Daly - 1998 - Autocracy under siege security police and opposition in Russia, 1866 - 1905.pdf:application/pdf
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{davenport_state_2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70eed1a1c5696d7039b35c7ab0cb8cf0}{%
+           family={Davenport},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{fullhash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{fullhashraw}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{bibnamehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authorbibnamehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authornamehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authorfullhash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authorfullhashraw}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-511-51002-1 978-0-511-29044-2}
+      \field{pagetotal}{1}
+      \field{series}{Cambridge studies in comparative politics}
+      \field{title}{State repression and the domestic democratic peace}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \keyw{Repression}
+    \endentry
+    \entry{dennison_institutional_2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35be39ff7a625dd7e3b1d3c225fae87f}{%
+           family={Dennison},
+           familyi={D\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge Univ. Press}%
+      }
+      \strng{namehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{fullhash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{fullhashraw}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{bibnamehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authorbibnamehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authornamehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authorfullhash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authorfullhashraw}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. publ}
+      \field{isbn}{978-0-511-97494-6 978-0-521-19448-8}
+      \field{pagetotal}{254}
+      \field{series}{Cambridge studies in economic history}
+      \field{title}{The institutional framework of Russian serfdom}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9780511974946
+      \endverb
+      \verb{file}
+      \verb Table of Contents PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\DFCNVZJS\\Dennison - 2011 - The institutional framework of Russian serfdom.pdf:application/pdf
+      \endverb
+      \keyw{Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{dennison_living_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=35be39ff7a625dd7e3b1d3c225fae87f}{%
+           family={Dennison},
+           familyi={D\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{fullhash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{fullhashraw}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{bibnamehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authorbibnamehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authornamehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authorfullhash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authorfullhashraw}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Most of the studies of living standards in pre-revolutionary Russia by economic historians have focused on a narrow range of measures for predominantly urban areas. A micro-level analysis that employs a broader set of measures of well-being for a small rural region in central Russia suggests that, contrary to previous findings, living standards were improving throughout the nineteenth century, even in seemingly less dynamic rural areas. Moreover, the variation in income and consumption patterns, human-capital development, and the distribution of resources in the countryside was greater than typically assumed. Since state and local institutions might be able to account for it, these determinants should be emphasized in future analyses of rural living standards in pre-Soviet Russia.}
+      \field{issn}{0022-1953, 1530-9169}
+      \field{journaltitle}{The Journal of Interdisciplinary History}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{3}
+      \field{shortjournal}{The Journal of Interdisciplinary History}
+      \field{title}{Living Standards in Nineteenth-Century Russia}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{43}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{397\bibrangedash 441}
+      \range{pages}{45}
+      \verb{doi}
+      \verb 10.1162/JINH_a_00424
+      \endverb
+      \verb{file}
+      \verb Accepted Version:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\PW72LNMM\\Dennison and Nafziger - 2012 - Living Standards in Nineteenth-Century Russia.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/jinh/article/43/3/397-441/50189
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/jinh/article/43/3/397-441/50189
+      \endverb
+      \keyw{Economic history,Living standards,Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{dimitrov_why_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49894efa22009fab29706a4c251a24a0}{%
+           family={Dimitrov},
+           familyi={D\bibinitperiod},
+           given={Martin\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {West Nyack}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{fullhash}{49894efa22009fab29706a4c251a24a0}
+      \strng{fullhashraw}{49894efa22009fab29706a4c251a24a0}
+      \strng{bibnamehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authorbibnamehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authornamehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authorfullhash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authorfullhashraw}{49894efa22009fab29706a4c251a24a0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cover -- Contents -- Tables and Figures -- List of Contributors -- Acknowledgments -- Abbreviations -- Part 1. Reform and Resilience -- 1 Understanding Communist Collapse and Resilience -- -- Institutional Sources of Communist Regime Resilience -- Political Reform and Regime Collapse -- A Comparative Framework for Studying Communist Resilience and Collapse -- Organization of the Volume -- Communist Regimes and Their Institutional Development -- The Universe of Communist Regimes -- Stages of Institutional Development in Communist Regimes -- Beyond the Core of the Communist Universe: Regimes in the Communist Penumbra -- Institutional Adaptation and Communist Regime Resilience -- Economic Reform -- The Role of Ideology -- Inclusion -- Institutions of Accountability -- Institutions, Contingency, and Regime Collapse -- Repression -- Learning from the Soviet Collapse -- Communist Regimes and Authoritarian Resilience -- 2 Resilience and Collapse in China and the Soviet Union -- Introduction -- Crises and Responses in Both Countries -- The Soviet Agenda for Change -- Crisis as Impetus for Change in China -- Economic Reform in China: Growing out of the Plan -- Agricultural Reforms and Rural Industry -- Elite Conflict over Economic Reform in China -- Economic Reform in the Soviet Union -- Agriculture -- Reforming Industry -- Elite Conflict -- Bureaucratic Obstruction -- Military Opposition to Reform -- The {PLA} and Deng Xiaoping -- Unsuccessful Political Liberalization in China -- Political Liberalization, Democratization, and the Soviet Collapse -- Democratizing the Party and State, 1988-1991 -- Nationalities and the Breakup of the Soviet Union -- Concluding Reflections -- Part {II}. Ideology and Resilience -- 3 Ideological Erosion and the Breakdown of Communist Regimes -- Introduction -- Paths to De-Stalinization: The Soviet Bloc and China}
+      \field{edition}{1st ed}
+      \field{isbn}{978-1-139-56502-8}
+      \field{pagetotal}{1}
+      \field{shorttitle}{Why Communism Did Not Collapse}
+      \field{title}{Why Communism Did Not Collapse: Understanding Authoritarian Regime Resilience in Asia and Europe}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dower_collective_2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=29b913c28116e596635d722f47525764}{%
+           family={Dower},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima Castañeda},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18b2d3d2887769a2b675dca69269e8a8}{%
+           family={Finkel},
+           familyi={F\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39f42f974193ab8810abe025ad70e15f}{%
+           family={Gehlbach},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df9ad1cc62558f46f96149e7cc6e39d1}{%
+           family={College},
+           familyi={C\bibinitperiod},
+           given={Williams},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0890bcc7fe1afe939d17675af8a147be}
+      \strng{fullhash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{fullhashraw}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{bibnamehash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{authorbibnamehash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{authornamehash}{0890bcc7fe1afe939d17675af8a147be}
+      \strng{authorfullhash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{authorfullhashraw}{ab85d18cb33e1e1d65ed0634defe7518}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We explore the relationship between capacity for collective action and representation in autocracies with data from Imperial Russia. Our primary empirical exercise relates peasant representation in new institutions of local self-government to the frequency of peasant unrest in the decade prior to reform. To correct for measurement error in the unrest data and other sources of endogeneity, we exploit idiosyncratic variation in two determinants of peasant unrest: the historical incidence of serfdom and religious polarization. We ﬁnd that peasants were granted less representation in districts with more frequent unrest in preceding years—a relationship consistent with the {AcemogluRobinson} model of political transitions and inconsistent with numerous other theories of institutional change. At the same time, we observe patterns of redistribution in subsequent years that are inconsistent with the commitment mechanism central to the Acemoglu-Robinson model. Building on these results, we discuss possible directions for future theoretical work.}
+      \field{langid}{english}
+      \field{title}{Collective Action and Representation in Autocracies: Evidence from Russia’s Great Reforms}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\LSYQWYXF\\Dower et al. - Collective Action and Representation in Autocracies Evidence from Russia’s Great Reforms.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{finkel_does_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=18b2d3d2887769a2b675dca69269e8a8}{%
+           family={Finkel},
+           familyi={F\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39f42f974193ab8810abe025ad70e15f}{%
+           family={Gehlbach},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=831f762cd492795ee7c2d266a952ef5f}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Tricia\bibnamedelima D},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf4d02707a97173afc8d8f273aa2d60f}
+      \strng{fullhash}{14be54696e32f22946158a624d43a1ae}
+      \strng{fullhashraw}{14be54696e32f22946158a624d43a1ae}
+      \strng{bibnamehash}{14be54696e32f22946158a624d43a1ae}
+      \strng{authorbibnamehash}{14be54696e32f22946158a624d43a1ae}
+      \strng{authornamehash}{cf4d02707a97173afc8d8f273aa2d60f}
+      \strng{authorfullhash}{14be54696e32f22946158a624d43a1ae}
+      \strng{authorfullhashraw}{14be54696e32f22946158a624d43a1ae}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Contemporary models of political economy suggest that reforms intended to reduce grievances should curtail unrest, a perspective at odds with many traditional accounts of reform and rebellion. We explore the impact of reform on rebellion with a new data set on peasant disturbances in 19th-century Russia. Using a difference-in-differences design that exploits the timing of various peasant reforms, we document a large increase in disturbances among former serfs following the Emancipation Reform of 1861, a development counter to reformers’ intent. Our analysis suggests that this outcome was driven by peasants’ disappointment with the reform’s design and implementation—the consequence of elite capture in the context of a generally weak state—and heightened expectations of what could be achieved through coordinated action. Reform-related disturbances were most pronounced in provinces where commune organization facilitated collective action and where fertile soil provoked contestation over land.}
+      \field{langid}{english}
+      \field{title}{Does Reform Prevent Rebellion? Evidence From Russia’s Emancipation of the Serfs}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\3FDERKF8\\Finkel et al. - Does Reform Prevent Rebellion Evidence From Russia’s Emancipation of the Serfs.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{gandhi_authoritarian_2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1dceb410d0f1b888e872bfcc4f2fa978}{%
+           family={Gandhi},
+           familyi={G\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=237ce3973c734b4bc7f49bb4a367df9d}{%
+           family={Przeworski},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2452b749715e1f569fb05111228b8218}
+      \strng{fullhash}{2452b749715e1f569fb05111228b8218}
+      \strng{fullhashraw}{2452b749715e1f569fb05111228b8218}
+      \strng{bibnamehash}{2452b749715e1f569fb05111228b8218}
+      \strng{authorbibnamehash}{2452b749715e1f569fb05111228b8218}
+      \strng{authornamehash}{2452b749715e1f569fb05111228b8218}
+      \strng{authorfullhash}{2452b749715e1f569fb05111228b8218}
+      \strng{authorfullhashraw}{2452b749715e1f569fb05111228b8218}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Why do some autocrats survive for decades, and others fall soon after taking power? The authors argue that when authoritarian rulers need to solicit the cooperation of outsiders or deter the threat of rebellion, they rely on political institutions. Partisan legislatures incorporate potential opposition forces, giving them a stake in the ruler's survival. By broadening the basis of support for autocrats, these institutions lengthen their tenures. An analysis of all authoritarian rulers in power during the 1946-1996 period provides evidence of the effect of nominally democratic institutions on their political survival.}
+      \field{issn}{0010-4140, 1552-3829}
+      \field{journaltitle}{Comparative Political Studies}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{Comparative Political Studies}
+      \field{title}{Authoritarian Institutions and the Survival of Autocrats}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1279\bibrangedash 1301}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1177/0010414007305817
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/0010414007305817
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/0010414007305817
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{gerschenkron_economic_1979}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bebffe6e5ceb405a079a46159400e089}{%
+           family={Gerschenkron},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Mass.}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Pr}%
+      }
+      \strng{namehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{fullhash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{fullhashraw}{bebffe6e5ceb405a079a46159400e089}
+      \strng{bibnamehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authorbibnamehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authornamehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authorfullhash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authorfullhashraw}{bebffe6e5ceb405a079a46159400e089}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-674-22600-5}
+      \field{pagetotal}{456}
+      \field{shorttitle}{Economic backwardness in historical perspective}
+      \field{title}{Economic backwardness in historical perspective: a book of essays}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\5CIMPHSQ\\Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:application/pdf
+      \endverb
+      \keyw{Economic development,Foundational,Industrialization,Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{greitens_dictators_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2b7632d0293fa71f68e9484e0b1731a}{%
+           family={Greitens},
+           familyi={G\bibinitperiod},
+           given={Sheena\bibnamedelima Chestnut},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{fullhash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{fullhashraw}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{bibnamehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authorbibnamehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authornamehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authorfullhash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authorfullhashraw}{a2b7632d0293fa71f68e9484e0b1731a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How do dictators stay in power? When, and how, do they use repression to do so? Dictators and their Secret Police explores the role of the coercive apparatus under authoritarian rule in Asia - how these secret organizations originated, how they operated, and how their violence affected ordinary citizens. Greitens argues that autocrats face a coercive dilemma: whether to create internal security forces designed to manage popular mobilization, or defend against potential coup. Violence against civilians, she suggests, is a byproduct of their attempt to resolve this dilemma. Drawing on a wealth of new historical evidence, this book challenges conventional wisdom on dictatorship: what autocrats are threatened by, how they respond, and how this affects the lives and security of the millions under their rule. It offers an unprecedented view into the use of surveillance, coercion, and violence, and sheds new light on the institutional and social foundations of authoritarian power.}
+      \field{day}{31}
+      \field{edition}{1}
+      \field{isbn}{978-1-107-13984-8 978-1-316-50531-1 978-1-316-48903-1}
+      \field{month}{7}
+      \field{shorttitle}{Dictators and their Secret Police}
+      \field{title}{Dictators and their Secret Police: Coercive Institutions and State Violence}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9781316489031
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/9781316489031/type/book
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/9781316489031/type/book
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{kofanov_land_2020}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff15f390072e50b3aaabc46ecfc8f62}{%
+           family={Kofanov},
+           familyi={K\bibinitperiod},
+           given={Dmitrii},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editora}{2}{}{%
+        {{hash=2a40b1f22f07493c6fee9907a1ec7646}{%
+           family={Herrera},
+           familyi={H\bibinitperiod},
+           given={Yoshiko\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=39f42f974193ab8810abe025ad70e15f}{%
+           family={Gehlbach},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The University of Wisconsin - Madison}%
+      }
+      \list{location}{1}{%
+        {United States -- Wisconsin}%
+      }
+      \strng{namehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{fullhash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{fullhashraw}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{bibnamehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authorbibnamehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authornamehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authorfullhash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authorfullhashraw}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{editorabibnamehash}{ebef8811a718d90b62b87cfafc009020}
+      \strng{editoranamehash}{ebef8811a718d90b62b87cfafc009020}
+      \strng{editorafullhash}{ebef8811a718d90b62b87cfafc009020}
+      \strng{editorafullhashraw}{ebef8811a718d90b62b87cfafc009020}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Why is economic development, despite being beneficial for society as a whole, often associated with political instability? Can the redistributional effects of industrialization lead to more intense conflict? These issues have been important for most agrarian countries undergoing rapid economic transformation, and are still relevant. Nevertheless, there are few attempts to address them using the toolbox of contemporary social science.This dissertation seeks to address these problems in the historical context of the late Russian Empire—a country experiencing rapid economic progress simultaneously with mounting popular discontent, which paved the way for its ruinous demise. Focusing on the dynamics of peasant unrest, I argue that industrialization could have an ambiguous effect on the intensity of conflict due to two opposing forces: expanding non-agricultural employment opportunities (labor absorption), which mitigated peasant demand for land, and greater competition for local natural resources, acting in the opposite direction. The net effect of industrialization depended on which of these two mechanisms prevailed, which itself was determined by the structure of industrial development. Moreover, this process could also affect the magnitude of the positive impact of land inequality on conflict, making peasants more or less sensitive to disparities between private and communal landholding.My theory builds on the existing literature on the political economy of development and ample historical evidence from the Russian Empire. First, I analyze the case of a large-scale peasant uprising in 1902 in the Poltava and Kharkov provinces, located in the south-west of the Russian Empire. The hotbed of the uprising was the territory occupied by a huge commercialized and industrialized estate increasingly reliant on large-scale tenants, who either cultivated the land formerly available to the peasants or sublet it at higher rates. The villages suffering particularly severe land shortages played the most important role at the onset of the uprising. The district where it started had the lowest share of land communally owned by the peasants. Notably, mass looting and property destruction also targeted sugar refineries. The logic of conflict between peasants and landlords is illustrated with the help of a formal model, which supports my theoretical intuition: commercialization and greater productivity of large-scale landownership and the lack of outside options for the peasantry engaged in subsistence farming may make conflict more likely.I test my theory with a quantitative analysis of district-level panel data for the European part of the Russian Empire from 1879 to 1904. As expected, the association of land inequality and unrest is positive: a lower share of allotment land (in communal ownership of the peasants), as opposed to state and private land, is associated with higher peasant unrest. The relationship between overall industrialization and peasant unrest is often negative, but typically insignificant, whereas its interaction with land inequality is positive, which means that it could decrease the negative association between allotment land and conflict, reducing peasants’ sensitivity to the availability of land due to the prevalence of the labor absorption effect.The results are also largely consistent with my theoretical expectations if we consider different industries separately. Food processing, for which it is possible to expect the prevalence of resource competition over the labor absorption channel, was associated with higher unrest, and strengthened the relationship between land distribution and conflict. The opposite is true for the textiles industry, which employed local labor, but used externally sourced raw materials. My sub-district analysis of the 1905–1906 peasant unrest in the Kursk province, located in the fertile black soil region in Southern Russia, mostly supports these conclusions, especially with respect to the role of the food industry and, more specifically, sugar refining.Exploring a relatively understudied topic, this dissertation makes a valuable theoretical and empirical contribution to studies of conflict and the political economy of development. Combining different methods and types of evidence, complementing indepth case studies with broad-based quantitative analysis, it produces a comprehensive picture of the determinants of peasant unrest generalizable to other world regions and time periods. It also considerably enriches our knowledge of the history of the late Russian Empire and the prerequisites for the social and political upheaval that caused its collapse. My data collection effort, which produced two novel quantitative datasets containing district-level information on peasant unrest, industrial development, land inequality, and other socio-economic indicators in the Russian Empire in the last decades of its existence and, at a less aggregated level, in one of its provinces, will hopefully be valuable to other historians and social scientists in future work.}
+      \field{editoratype}{collaborator}
+      \field{note}{{ISBN}: 9798672178431 Publication Title: {ProQuest} Dissertations and Theses 28092713}
+      \field{pagetotal}{229}
+      \field{title}{Land Inequality, Industrialization and Unrest: Evidence from the Late Russian Empire}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\NYZZBG7U\\Kofanov - 2020 - Land Inequality, Industrialization and Unrest Evidence from the Late Russian Empire.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.proquest.com/dissertations-theses/land-inequality-industrialization-unrest-evidence/docview/2450173996/se-2?accountid=14501
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/dissertations-theses/land-inequality-industrialization-unrest-evidence/docview/2450173996/se-2?accountid=14501
+      \endverb
+      \keyw{0509:Economic history,0615:Political science,0724:Russian history,Economic history,Land inequality,Late Russian Empire,Political Economy,Political science,Russian history}
+    \endentry
+    \entry{markevich_economic_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e85e146cd92d7bc3b52b23d751ae9a6}{%
+           family={Zhuravskaya},
+           familyi={Z\bibinitperiod},
+           given={Ekaterina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{fullhash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{fullhashraw}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{bibnamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorbibnamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authornamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorfullhash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorfullhashraw}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We document substantial increases in agricultural productivity, industrial output, and peasants' nutrition in Imperial Russia as a result of the abolition of serfdom in 1861. Before the emancipation, provinces where serfs constituted the majority of agricultural laborers lagged behind provinces that primarily relied on free labor. The emancipation led to a significant but partial catch up. Better incentives of peasants resulting from the cessation of ratchet effect were a likely mechanism behind a relatively fast positive effect of reform on agricultural productivity. The land reform, which instituted communal land tenure after the emancipation, diminished growth in productivity in repartition communes.}
+      \field{issn}{0002-8282}
+      \field{journaltitle}{American Economic Review}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{The Economic Effects of the Abolition of Serfdom}
+      \field{title}{The Economic Effects of the Abolition of Serfdom: Evidence from the Russian Empire}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{108}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1074\bibrangedash 1117}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1257/aer.20160144
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\8P8FQA4U\\Markevich and Zhuravskaya - 2018 - The Economic Effects of the Abolition of Serfdom .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.aeaweb.org/articles?id=10.1257/aer.20160144
+      \endverb
+      \verb{url}
+      \verb https://www.aeaweb.org/articles?id=10.1257/aer.20160144
+      \endverb
+      \keyw{Economic history,Economic state,Labour coercion,Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{popov_factors_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=86484b4b8b63d38fb85033cbd7bbc2e1}{%
+           family={Popov},
+           familyi={P\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30b3a106ce8fc9032bd5025a917ade64}{%
+           family={Konchakov},
+           familyi={K\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fecee5262cd4af5768543ab82e0c1450}{%
+           family={Didenko},
+           familyi={D\bibinitperiod},
+           given={Dmitry\bibnamedelima Valerievich},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b0a6934f05cf75440aa838050f870064}
+      \strng{fullhash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{fullhashraw}{ee17801ad0e5466a3d2654500692343e}
+      \strng{bibnamehash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{authorbibnamehash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{authornamehash}{b0a6934f05cf75440aa838050f870064}
+      \strng{authorfullhash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{authorfullhashraw}{ee17801ad0e5466a3d2654500692343e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The key question of the economic and social post-reform history of Russia (after the agrarian reform of 1861) is what exactly led to the revolutions of the early 20th century. Were these revolutions a natural result of the growth of social tensions due to the flawed “Prussian path” of the development of capitalism in agriculture (a combination of large landlords’ estates and small land ownership of the bulk of the peasants) or did Russian capitalism develop successfully on the whole, and the revolutions were by no means inevitable, but rather caused by random, transient factors (war, political mistakes of the authorities and the opposition, etc.) – brief overview of these discussions is in Nefedov and Ellman (2016).}
+      \field{issn}{1556-5068}
+      \field{journaltitle}{{SSRN} Electronic Journal}
+      \field{langid}{english}
+      \field{shortjournal}{{SSRN} Journal}
+      \field{title}{Factors of Social Tension in the Provinces of the Russian Empire in the Late 19th and Early 20th Centuries}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.4560298
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\3Z3YNKNB\\Popov et al. - 2023 - Factors of Social Tension in the Provinces of the Russian Empire in the Late 19th and Early 20th Cen.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ssrn.com/abstract=4560298
+      \endverb
+      \verb{url}
+      \verb https://www.ssrn.com/abstract=4560298
+      \endverb
+    \endentry
+    \entry{tilly_mobilization_1978}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=763e94a483a60e18a7c484bc3049c6f0}{%
+           family={Tilly},
+           familyi={T\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Random house}%
+      }
+      \strng{namehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{fullhash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{fullhashraw}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{bibnamehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authorbibnamehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authornamehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authorfullhash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authorfullhashraw}{763e94a483a60e18a7c484bc3049c6f0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-394-34941-1}
+      \field{title}{From mobilization to revolution}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \keyw{Repression}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{acemoglu_economic_2005}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d849e6f8de178bfb18aa67341c9f8d38}{%
+           family={Acemoglu},
+           familyi={A\bibinitperiod},
+           given={Daron},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=974873287a7760126350afac970c1e81}{%
+           family={Robinson},
+           familyi={R\bibinitperiod},
+           given={James\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{fullhash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{fullhashraw}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{bibnamehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authorbibnamehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authornamehash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authorfullhash}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \strng{authorfullhashraw}{e9d3e7c95c550d701dedddb09ddaecb0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This book develops a framework for analyzing the creation and consolidation of democracy. Different social groups prefer different political institutions because of the way they allocate political power and resources. Thus democracy is preferred by the majority of citizens, but opposed by elites. Dictatorship nevertheless is not stable when citizens can threaten social disorder and revolution. In response, when the costs of repression are sufficiently high and promises of concessions are not credible, elites may be forced to create democracy. By democratizing, elites credibly transfer political power to the citizens, ensuring social stability. Democracy consolidates when elites do not have strong incentive to overthrow it. These processes depend on (1) the strength of civil society, (2) the structure of political institutions, (3) the nature of political and economic crises, (4) the level of economic inequality, (5) the structure of the economy, and (6) the form and extent of globalization.}
+      \field{day}{19}
+      \field{edition}{1}
+      \field{isbn}{978-0-521-85526-6 978-0-521-67142-2 978-0-511-51080-9}
+      \field{month}{12}
+      \field{title}{Economic Origins of Dictatorship and Democracy}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9780511510809
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/9780511510809/type/book
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/9780511510809/type/book
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{boucoyannis_kings_2021}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f04eb11cd75aefe8945d82da9fff41eb}{%
+           family={Boucoyannis},
+           familyi={B\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{fullhash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{fullhashraw}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{bibnamehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authorbibnamehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authornamehash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authorfullhash}{f04eb11cd75aefe8945d82da9fff41eb}
+      \strng{authorfullhashraw}{f04eb11cd75aefe8945d82da9fff41eb}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How did representative institutions become the central organs of governance in Western Europe? What enabled this distinctive form of political organization and collective action that has proved so durable and influential? The answer has typically been sought either in the realm of ideas, in the Western tradition of individual rights, or in material change, especially the complex interaction of war, taxes, and economic growth. Common to these strands is the belief that representation resulted from weak ruling powers needing to concede rights to powerful social groups. Boucoyannis argues instead that representative institutions were a product of state strength, specifically the capacity to deliver justice across social groups. Enduring and inclusive representative parliaments formed when rulers could exercise power over the most powerful actors in the land and compel them to serve and, especially, to tax them. The language of rights deemed distinctive to the West emerged in response to more effectively imposed collective obligations, especially on those with most power.}
+      \field{day}{15}
+      \field{edition}{1}
+      \field{isbn}{978-1-316-67836-7 978-1-107-16279-2 978-1-316-61496-9}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{shorttitle}{Kings as Judges}
+      \field{title}{Kings as Judges: Power, Justice, and the Origins of Parliaments}
+      \field{urlday}{25}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/9781316678367
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\V6LQIRS7\\Boucoyannis - 2021 - Kings as Judges Power, Justice, and the Origins of Parliaments.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/9781316678367/type/book
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/9781316678367/type/book
+      \endverb
+      \keyw{European representative institutions}
+    \endentry
+    \entry{buggle_slow_2021}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a270ddedc344b0691652e2d400ad8fdb}{%
+           family={Buggle},
+           familyi={B\bibinitperiod},
+           given={Johannes\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{fullhash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{fullhashraw}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{bibnamehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authorbibnamehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authornamehash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authorfullhash}{96f1ffd08cf7981686c03af4bbc89e04}
+      \strng{authorfullhashraw}{96f1ffd08cf7981686c03af4bbc89e04}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper examines the long-run economic consequences of Russian serfdom. Employing data on the intensity of labor coercion just prior to emancipation in 1861, we document that a 25 percentage point increase in historical serfdom (1 {SD}) reduces household expenditure today by up to 17\%. We then provide evidence on the persistence of this relationship by studying city populations over the period 1800 to 2002. Exploring mechanisms, our findings suggest that less urban agglomeration and slower industrial development in areas with a greater degree of serfdom perpetuated the negative effects of forced labor before, during, and after the Soviet period.}
+      \field{issn}{0034-6535, 1530-9142}
+      \field{journaltitle}{The Review of Economics and Statistics}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Review of Economics and Statistics}
+      \field{shorttitle}{The Slow Road from Serfdom}
+      \field{title}{The Slow Road from Serfdom: Labor Coercion and Long-Run Development in the Former Russian Empire}
+      \field{urlday}{18}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{103}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1162/rest_a_00857
+      \endverb
+      \verb{file}
+      \verb Submitted Version:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\8YA6VP4U\\Buggle and Nafziger - 2021 - The Slow Road from Serfdom Labor Coercion and Long-Run Development in the Former Russian Empire.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/rest/article/103/1/1-17/97761
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/rest/article/103/1/1-17/97761
+      \endverb
+    \endentry
+    \entry{daly_autocracy_1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f26897b7eaecb43e7fc636881ca1210a}{%
+           family={Daly},
+           familyi={D\bibinitperiod},
+           given={Jonathan\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {{DeKalb}, Ill}%
+      }
+      \list{publisher}{1}{%
+        {Northern Illinois University Press}%
+      }
+      \strng{namehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{fullhash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{fullhashraw}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{bibnamehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authorbibnamehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authornamehash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authorfullhash}{f26897b7eaecb43e7fc636881ca1210a}
+      \strng{authorfullhashraw}{f26897b7eaecb43e7fc636881ca1210a}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-87580-243-5}
+      \field{pagetotal}{260}
+      \field{shorttitle}{Autocracy under siege}
+      \field{title}{Autocracy under siege: security police and opposition in Russia, 1866 - 1905}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Table of Contents PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\4DJLSXZJ\\Daly - 1998 - Autocracy under siege security police and opposition in Russia, 1866 - 1905.pdf:application/pdf
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{davenport_state_2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=70eed1a1c5696d7039b35c7ab0cb8cf0}{%
+           family={Davenport},
+           familyi={D\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{fullhash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{fullhashraw}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{bibnamehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authorbibnamehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authornamehash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authorfullhash}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \strng{authorfullhashraw}{70eed1a1c5696d7039b35c7ab0cb8cf0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-511-51002-1 978-0-511-29044-2}
+      \field{pagetotal}{1}
+      \field{series}{Cambridge studies in comparative politics}
+      \field{title}{State repression and the domestic democratic peace}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \keyw{Repression}
+    \endentry
+    \entry{dennison_institutional_2011}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=35be39ff7a625dd7e3b1d3c225fae87f}{%
+           family={Dennison},
+           familyi={D\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge Univ. Press}%
+      }
+      \strng{namehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{fullhash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{fullhashraw}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{bibnamehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authorbibnamehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authornamehash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authorfullhash}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \strng{authorfullhashraw}{35be39ff7a625dd7e3b1d3c225fae87f}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. publ}
+      \field{isbn}{978-0-511-97494-6 978-0-521-19448-8}
+      \field{pagetotal}{254}
+      \field{series}{Cambridge studies in economic history}
+      \field{title}{The institutional framework of Russian serfdom}
+      \field{year}{2011}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9780511974946
+      \endverb
+      \verb{file}
+      \verb Table of Contents PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\DFCNVZJS\\Dennison - 2011 - The institutional framework of Russian serfdom.pdf:application/pdf
+      \endverb
+      \keyw{Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{dennison_living_2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=35be39ff7a625dd7e3b1d3c225fae87f}{%
+           family={Dennison},
+           familyi={D\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{fullhash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{fullhashraw}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{bibnamehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authorbibnamehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authornamehash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authorfullhash}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \strng{authorfullhashraw}{cc14d887293b19838ad2aa4b3bb3fc31}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Most of the studies of living standards in pre-revolutionary Russia by economic historians have focused on a narrow range of measures for predominantly urban areas. A micro-level analysis that employs a broader set of measures of well-being for a small rural region in central Russia suggests that, contrary to previous findings, living standards were improving throughout the nineteenth century, even in seemingly less dynamic rural areas. Moreover, the variation in income and consumption patterns, human-capital development, and the distribution of resources in the countryside was greater than typically assumed. Since state and local institutions might be able to account for it, these determinants should be emphasized in future analyses of rural living standards in pre-Soviet Russia.}
+      \field{issn}{0022-1953, 1530-9169}
+      \field{journaltitle}{The Journal of Interdisciplinary History}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{3}
+      \field{shortjournal}{The Journal of Interdisciplinary History}
+      \field{title}{Living Standards in Nineteenth-Century Russia}
+      \field{urlday}{12}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{43}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{397\bibrangedash 441}
+      \range{pages}{45}
+      \verb{doi}
+      \verb 10.1162/JINH_a_00424
+      \endverb
+      \verb{file}
+      \verb Accepted Version:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\PW72LNMM\\Dennison and Nafziger - 2012 - Living Standards in Nineteenth-Century Russia.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://direct.mit.edu/jinh/article/43/3/397-441/50189
+      \endverb
+      \verb{url}
+      \verb https://direct.mit.edu/jinh/article/43/3/397-441/50189
+      \endverb
+      \keyw{Economic history,Living standards,Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{dimitrov_why_2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=49894efa22009fab29706a4c251a24a0}{%
+           family={Dimitrov},
+           familyi={D\bibinitperiod},
+           given={Martin\bibnamedelima K.},
+           giveni={M\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {West Nyack}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{fullhash}{49894efa22009fab29706a4c251a24a0}
+      \strng{fullhashraw}{49894efa22009fab29706a4c251a24a0}
+      \strng{bibnamehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authorbibnamehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authornamehash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authorfullhash}{49894efa22009fab29706a4c251a24a0}
+      \strng{authorfullhashraw}{49894efa22009fab29706a4c251a24a0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Cover -- Contents -- Tables and Figures -- List of Contributors -- Acknowledgments -- Abbreviations -- Part 1. Reform and Resilience -- 1 Understanding Communist Collapse and Resilience -- -- Institutional Sources of Communist Regime Resilience -- Political Reform and Regime Collapse -- A Comparative Framework for Studying Communist Resilience and Collapse -- Organization of the Volume -- Communist Regimes and Their Institutional Development -- The Universe of Communist Regimes -- Stages of Institutional Development in Communist Regimes -- Beyond the Core of the Communist Universe: Regimes in the Communist Penumbra -- Institutional Adaptation and Communist Regime Resilience -- Economic Reform -- The Role of Ideology -- Inclusion -- Institutions of Accountability -- Institutions, Contingency, and Regime Collapse -- Repression -- Learning from the Soviet Collapse -- Communist Regimes and Authoritarian Resilience -- 2 Resilience and Collapse in China and the Soviet Union -- Introduction -- Crises and Responses in Both Countries -- The Soviet Agenda for Change -- Crisis as Impetus for Change in China -- Economic Reform in China: Growing out of the Plan -- Agricultural Reforms and Rural Industry -- Elite Conflict over Economic Reform in China -- Economic Reform in the Soviet Union -- Agriculture -- Reforming Industry -- Elite Conflict -- Bureaucratic Obstruction -- Military Opposition to Reform -- The {PLA} and Deng Xiaoping -- Unsuccessful Political Liberalization in China -- Political Liberalization, Democratization, and the Soviet Collapse -- Democratizing the Party and State, 1988-1991 -- Nationalities and the Breakup of the Soviet Union -- Concluding Reflections -- Part {II}. Ideology and Resilience -- 3 Ideological Erosion and the Breakdown of Communist Regimes -- Introduction -- Paths to De-Stalinization: The Soviet Bloc and China}
+      \field{edition}{1st ed}
+      \field{isbn}{978-1-139-56502-8}
+      \field{pagetotal}{1}
+      \field{shorttitle}{Why Communism Did Not Collapse}
+      \field{title}{Why Communism Did Not Collapse: Understanding Authoritarian Regime Resilience in Asia and Europe}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{dower_collective_2017}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=29b913c28116e596635d722f47525764}{%
+           family={Dower},
+           familyi={D\bibinitperiod},
+           given={Paul\bibnamedelima Castañeda},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18b2d3d2887769a2b675dca69269e8a8}{%
+           family={Finkel},
+           familyi={F\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39f42f974193ab8810abe025ad70e15f}{%
+           family={Gehlbach},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df9ad1cc62558f46f96149e7cc6e39d1}{%
+           family={College},
+           familyi={C\bibinitperiod},
+           given={Williams},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0890bcc7fe1afe939d17675af8a147be}
+      \strng{fullhash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{fullhashraw}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{bibnamehash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{authorbibnamehash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{authornamehash}{0890bcc7fe1afe939d17675af8a147be}
+      \strng{authorfullhash}{ab85d18cb33e1e1d65ed0634defe7518}
+      \strng{authorfullhashraw}{ab85d18cb33e1e1d65ed0634defe7518}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We explore the relationship between capacity for collective action and representation in autocracies with data from Imperial Russia. Our primary empirical exercise relates peasant representation in new institutions of local self-government to the frequency of peasant unrest in the decade prior to reform. To correct for measurement error in the unrest data and other sources of endogeneity, we exploit idiosyncratic variation in two determinants of peasant unrest: the historical incidence of serfdom and religious polarization. We ﬁnd that peasants were granted less representation in districts with more frequent unrest in preceding years—a relationship consistent with the {AcemogluRobinson} model of political transitions and inconsistent with numerous other theories of institutional change. At the same time, we observe patterns of redistribution in subsequent years that are inconsistent with the commitment mechanism central to the Acemoglu-Robinson model. Building on these results, we discuss possible directions for future theoretical work.}
+      \field{langid}{english}
+      \field{title}{Collective Action and Representation in Autocracies: Evidence from Russia’s Great Reforms}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\LSYQWYXF\\Dower et al. - Collective Action and Representation in Autocracies Evidence from Russia’s Great Reforms.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{finkel_does_2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=18b2d3d2887769a2b675dca69269e8a8}{%
+           family={Finkel},
+           familyi={F\bibinitperiod},
+           given={Evgeny},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=39f42f974193ab8810abe025ad70e15f}{%
+           family={Gehlbach},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=831f762cd492795ee7c2d266a952ef5f}{%
+           family={Olsen},
+           familyi={O\bibinitperiod},
+           given={Tricia\bibnamedelima D},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf4d02707a97173afc8d8f273aa2d60f}
+      \strng{fullhash}{14be54696e32f22946158a624d43a1ae}
+      \strng{fullhashraw}{14be54696e32f22946158a624d43a1ae}
+      \strng{bibnamehash}{14be54696e32f22946158a624d43a1ae}
+      \strng{authorbibnamehash}{14be54696e32f22946158a624d43a1ae}
+      \strng{authornamehash}{cf4d02707a97173afc8d8f273aa2d60f}
+      \strng{authorfullhash}{14be54696e32f22946158a624d43a1ae}
+      \strng{authorfullhashraw}{14be54696e32f22946158a624d43a1ae}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Contemporary models of political economy suggest that reforms intended to reduce grievances should curtail unrest, a perspective at odds with many traditional accounts of reform and rebellion. We explore the impact of reform on rebellion with a new data set on peasant disturbances in 19th-century Russia. Using a difference-in-differences design that exploits the timing of various peasant reforms, we document a large increase in disturbances among former serfs following the Emancipation Reform of 1861, a development counter to reformers’ intent. Our analysis suggests that this outcome was driven by peasants’ disappointment with the reform’s design and implementation—the consequence of elite capture in the context of a generally weak state—and heightened expectations of what could be achieved through coordinated action. Reform-related disturbances were most pronounced in provinces where commune organization facilitated collective action and where fertile soil provoked contestation over land.}
+      \field{langid}{english}
+      \field{title}{Does Reform Prevent Rebellion? Evidence From Russia’s Emancipation of the Serfs}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\3FDERKF8\\Finkel et al. - Does Reform Prevent Rebellion Evidence From Russia’s Emancipation of the Serfs.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{gandhi_authoritarian_2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1dceb410d0f1b888e872bfcc4f2fa978}{%
+           family={Gandhi},
+           familyi={G\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=237ce3973c734b4bc7f49bb4a367df9d}{%
+           family={Przeworski},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2452b749715e1f569fb05111228b8218}
+      \strng{fullhash}{2452b749715e1f569fb05111228b8218}
+      \strng{fullhashraw}{2452b749715e1f569fb05111228b8218}
+      \strng{bibnamehash}{2452b749715e1f569fb05111228b8218}
+      \strng{authorbibnamehash}{2452b749715e1f569fb05111228b8218}
+      \strng{authornamehash}{2452b749715e1f569fb05111228b8218}
+      \strng{authorfullhash}{2452b749715e1f569fb05111228b8218}
+      \strng{authorfullhashraw}{2452b749715e1f569fb05111228b8218}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Why do some autocrats survive for decades, and others fall soon after taking power? The authors argue that when authoritarian rulers need to solicit the cooperation of outsiders or deter the threat of rebellion, they rely on political institutions. Partisan legislatures incorporate potential opposition forces, giving them a stake in the ruler's survival. By broadening the basis of support for autocrats, these institutions lengthen their tenures. An analysis of all authoritarian rulers in power during the 1946-1996 period provides evidence of the effect of nominally democratic institutions on their political survival.}
+      \field{issn}{0010-4140, 1552-3829}
+      \field{journaltitle}{Comparative Political Studies}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{11}
+      \field{shortjournal}{Comparative Political Studies}
+      \field{title}{Authoritarian Institutions and the Survival of Autocrats}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{40}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1279\bibrangedash 1301}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1177/0010414007305817
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.sagepub.com/doi/10.1177/0010414007305817
+      \endverb
+      \verb{url}
+      \verb https://journals.sagepub.com/doi/10.1177/0010414007305817
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{gerschenkron_economic_1979}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bebffe6e5ceb405a079a46159400e089}{%
+           family={Gerschenkron},
+           familyi={G\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Mass.}%
+      }
+      \list{publisher}{1}{%
+        {Belknap Pr}%
+      }
+      \strng{namehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{fullhash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{fullhashraw}{bebffe6e5ceb405a079a46159400e089}
+      \strng{bibnamehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authorbibnamehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authornamehash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authorfullhash}{bebffe6e5ceb405a079a46159400e089}
+      \strng{authorfullhashraw}{bebffe6e5ceb405a079a46159400e089}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-674-22600-5}
+      \field{pagetotal}{456}
+      \field{shorttitle}{Economic backwardness in historical perspective}
+      \field{title}{Economic backwardness in historical perspective: a book of essays}
+      \field{year}{1979}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\5CIMPHSQ\\Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:application/pdf
+      \endverb
+      \keyw{Economic development,Foundational,Industrialization,Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{greitens_dictators_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a2b7632d0293fa71f68e9484e0b1731a}{%
+           family={Greitens},
+           familyi={G\bibinitperiod},
+           given={Sheena\bibnamedelima Chestnut},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{fullhash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{fullhashraw}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{bibnamehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authorbibnamehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authornamehash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authorfullhash}{a2b7632d0293fa71f68e9484e0b1731a}
+      \strng{authorfullhashraw}{a2b7632d0293fa71f68e9484e0b1731a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{How do dictators stay in power? When, and how, do they use repression to do so? Dictators and their Secret Police explores the role of the coercive apparatus under authoritarian rule in Asia - how these secret organizations originated, how they operated, and how their violence affected ordinary citizens. Greitens argues that autocrats face a coercive dilemma: whether to create internal security forces designed to manage popular mobilization, or defend against potential coup. Violence against civilians, she suggests, is a byproduct of their attempt to resolve this dilemma. Drawing on a wealth of new historical evidence, this book challenges conventional wisdom on dictatorship: what autocrats are threatened by, how they respond, and how this affects the lives and security of the millions under their rule. It offers an unprecedented view into the use of surveillance, coercion, and violence, and sheds new light on the institutional and social foundations of authoritarian power.}
+      \field{day}{31}
+      \field{edition}{1}
+      \field{isbn}{978-1-107-13984-8 978-1-316-50531-1 978-1-316-48903-1}
+      \field{month}{7}
+      \field{shorttitle}{Dictators and their Secret Police}
+      \field{title}{Dictators and their Secret Police: Coercive Institutions and State Violence}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.1017/CBO9781316489031
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/9781316489031/type/book
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/9781316489031/type/book
+      \endverb
+      \keyw{Repression}
+    \endentry
+    \entry{kofanov_land_2020}{thesis}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aff15f390072e50b3aaabc46ecfc8f62}{%
+           family={Kofanov},
+           familyi={K\bibinitperiod},
+           given={Dmitrii},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editora}{2}{}{%
+        {{hash=2a40b1f22f07493c6fee9907a1ec7646}{%
+           family={Herrera},
+           familyi={H\bibinitperiod},
+           given={Yoshiko\bibnamedelima M.},
+           giveni={Y\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=39f42f974193ab8810abe025ad70e15f}{%
+           family={Gehlbach},
+           familyi={G\bibinitperiod},
+           given={Scott},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {The University of Wisconsin - Madison}%
+      }
+      \list{location}{1}{%
+        {United States -- Wisconsin}%
+      }
+      \strng{namehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{fullhash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{fullhashraw}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{bibnamehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authorbibnamehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authornamehash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authorfullhash}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{authorfullhashraw}{aff15f390072e50b3aaabc46ecfc8f62}
+      \strng{editorabibnamehash}{ebef8811a718d90b62b87cfafc009020}
+      \strng{editoranamehash}{ebef8811a718d90b62b87cfafc009020}
+      \strng{editorafullhash}{ebef8811a718d90b62b87cfafc009020}
+      \strng{editorafullhashraw}{ebef8811a718d90b62b87cfafc009020}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Why is economic development, despite being beneficial for society as a whole, often associated with political instability? Can the redistributional effects of industrialization lead to more intense conflict? These issues have been important for most agrarian countries undergoing rapid economic transformation, and are still relevant. Nevertheless, there are few attempts to address them using the toolbox of contemporary social science.This dissertation seeks to address these problems in the historical context of the late Russian Empire—a country experiencing rapid economic progress simultaneously with mounting popular discontent, which paved the way for its ruinous demise. Focusing on the dynamics of peasant unrest, I argue that industrialization could have an ambiguous effect on the intensity of conflict due to two opposing forces: expanding non-agricultural employment opportunities (labor absorption), which mitigated peasant demand for land, and greater competition for local natural resources, acting in the opposite direction. The net effect of industrialization depended on which of these two mechanisms prevailed, which itself was determined by the structure of industrial development. Moreover, this process could also affect the magnitude of the positive impact of land inequality on conflict, making peasants more or less sensitive to disparities between private and communal landholding.My theory builds on the existing literature on the political economy of development and ample historical evidence from the Russian Empire. First, I analyze the case of a large-scale peasant uprising in 1902 in the Poltava and Kharkov provinces, located in the south-west of the Russian Empire. The hotbed of the uprising was the territory occupied by a huge commercialized and industrialized estate increasingly reliant on large-scale tenants, who either cultivated the land formerly available to the peasants or sublet it at higher rates. The villages suffering particularly severe land shortages played the most important role at the onset of the uprising. The district where it started had the lowest share of land communally owned by the peasants. Notably, mass looting and property destruction also targeted sugar refineries. The logic of conflict between peasants and landlords is illustrated with the help of a formal model, which supports my theoretical intuition: commercialization and greater productivity of large-scale landownership and the lack of outside options for the peasantry engaged in subsistence farming may make conflict more likely.I test my theory with a quantitative analysis of district-level panel data for the European part of the Russian Empire from 1879 to 1904. As expected, the association of land inequality and unrest is positive: a lower share of allotment land (in communal ownership of the peasants), as opposed to state and private land, is associated with higher peasant unrest. The relationship between overall industrialization and peasant unrest is often negative, but typically insignificant, whereas its interaction with land inequality is positive, which means that it could decrease the negative association between allotment land and conflict, reducing peasants’ sensitivity to the availability of land due to the prevalence of the labor absorption effect.The results are also largely consistent with my theoretical expectations if we consider different industries separately. Food processing, for which it is possible to expect the prevalence of resource competition over the labor absorption channel, was associated with higher unrest, and strengthened the relationship between land distribution and conflict. The opposite is true for the textiles industry, which employed local labor, but used externally sourced raw materials. My sub-district analysis of the 1905–1906 peasant unrest in the Kursk province, located in the fertile black soil region in Southern Russia, mostly supports these conclusions, especially with respect to the role of the food industry and, more specifically, sugar refining.Exploring a relatively understudied topic, this dissertation makes a valuable theoretical and empirical contribution to studies of conflict and the political economy of development. Combining different methods and types of evidence, complementing indepth case studies with broad-based quantitative analysis, it produces a comprehensive picture of the determinants of peasant unrest generalizable to other world regions and time periods. It also considerably enriches our knowledge of the history of the late Russian Empire and the prerequisites for the social and political upheaval that caused its collapse. My data collection effort, which produced two novel quantitative datasets containing district-level information on peasant unrest, industrial development, land inequality, and other socio-economic indicators in the Russian Empire in the last decades of its existence and, at a less aggregated level, in one of its provinces, will hopefully be valuable to other historians and social scientists in future work.}
+      \field{editoratype}{collaborator}
+      \field{note}{{ISBN}: 9798672178431 Publication Title: {ProQuest} Dissertations and Theses 28092713}
+      \field{pagetotal}{229}
+      \field{title}{Land Inequality, Industrialization and Unrest: Evidence from the Late Russian Empire}
+      \field{type}{phdthesis}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\NYZZBG7U\\Kofanov - 2020 - Land Inequality, Industrialization and Unrest Evidence from the Late Russian Empire.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.proquest.com/dissertations-theses/land-inequality-industrialization-unrest-evidence/docview/2450173996/se-2?accountid=14501
+      \endverb
+      \verb{url}
+      \verb https://www.proquest.com/dissertations-theses/land-inequality-industrialization-unrest-evidence/docview/2450173996/se-2?accountid=14501
+      \endverb
+      \keyw{0509:Economic history,0615:Political science,0724:Russian history,Economic history,Land inequality,Late Russian Empire,Political Economy,Political science,Russian history}
+    \endentry
+    \entry{markevich_economic_2018}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e85e146cd92d7bc3b52b23d751ae9a6}{%
+           family={Zhuravskaya},
+           familyi={Z\bibinitperiod},
+           given={Ekaterina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{fullhash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{fullhashraw}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{bibnamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorbibnamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authornamehash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorfullhash}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \strng{authorfullhashraw}{d8cf5a3e2e720f34dab5a7f39c3a9b8e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We document substantial increases in agricultural productivity, industrial output, and peasants' nutrition in Imperial Russia as a result of the abolition of serfdom in 1861. Before the emancipation, provinces where serfs constituted the majority of agricultural laborers lagged behind provinces that primarily relied on free labor. The emancipation led to a significant but partial catch up. Better incentives of peasants resulting from the cessation of ratchet effect were a likely mechanism behind a relatively fast positive effect of reform on agricultural productivity. The land reform, which instituted communal land tenure after the emancipation, diminished growth in productivity in repartition communes.}
+      \field{issn}{0002-8282}
+      \field{journaltitle}{American Economic Review}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{4}
+      \field{shorttitle}{The Economic Effects of the Abolition of Serfdom}
+      \field{title}{The Economic Effects of the Abolition of Serfdom: Evidence from the Russian Empire}
+      \field{urlday}{24}
+      \field{urlmonth}{9}
+      \field{urlyear}{2023}
+      \field{volume}{108}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1074\bibrangedash 1117}
+      \range{pages}{44}
+      \verb{doi}
+      \verb 10.1257/aer.20160144
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\8P8FQA4U\\Markevich and Zhuravskaya - 2018 - The Economic Effects of the Abolition of Serfdom .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.aeaweb.org/articles?id=10.1257/aer.20160144
+      \endverb
+      \verb{url}
+      \verb https://www.aeaweb.org/articles?id=10.1257/aer.20160144
+      \endverb
+      \keyw{Economic history,Economic state,Labour coercion,Post-soviet countries,Russia,Russian Empire}
+    \endentry
+    \entry{popov_factors_2023}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=86484b4b8b63d38fb85033cbd7bbc2e1}{%
+           family={Popov},
+           familyi={P\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30b3a106ce8fc9032bd5025a917ade64}{%
+           family={Konchakov},
+           familyi={K\bibinitperiod},
+           given={Roman},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fecee5262cd4af5768543ab82e0c1450}{%
+           family={Didenko},
+           familyi={D\bibinitperiod},
+           given={Dmitry\bibnamedelima Valerievich},
+           giveni={D\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b0a6934f05cf75440aa838050f870064}
+      \strng{fullhash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{fullhashraw}{ee17801ad0e5466a3d2654500692343e}
+      \strng{bibnamehash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{authorbibnamehash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{authornamehash}{b0a6934f05cf75440aa838050f870064}
+      \strng{authorfullhash}{ee17801ad0e5466a3d2654500692343e}
+      \strng{authorfullhashraw}{ee17801ad0e5466a3d2654500692343e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The key question of the economic and social post-reform history of Russia (after the agrarian reform of 1861) is what exactly led to the revolutions of the early 20th century. Were these revolutions a natural result of the growth of social tensions due to the flawed “Prussian path” of the development of capitalism in agriculture (a combination of large landlords’ estates and small land ownership of the bulk of the peasants) or did Russian capitalism develop successfully on the whole, and the revolutions were by no means inevitable, but rather caused by random, transient factors (war, political mistakes of the authorities and the opposition, etc.) – brief overview of these discussions is in Nefedov and Ellman (2016).}
+      \field{issn}{1556-5068}
+      \field{journaltitle}{{SSRN} Electronic Journal}
+      \field{langid}{english}
+      \field{shortjournal}{{SSRN} Journal}
+      \field{title}{Factors of Social Tension in the Provinces of the Russian Empire in the Late 19th and Early 20th Centuries}
+      \field{urlday}{26}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.4560298
+      \endverb
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\3Z3YNKNB\\Popov et al. - 2023 - Factors of Social Tension in the Provinces of the Russian Empire in the Late 19th and Early 20th Cen.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ssrn.com/abstract=4560298
+      \endverb
+      \verb{url}
+      \verb https://www.ssrn.com/abstract=4560298
+      \endverb
+    \endentry
+    \entry{tilly_mobilization_1978}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=763e94a483a60e18a7c484bc3049c6f0}{%
+           family={Tilly},
+           familyi={T\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Random house}%
+      }
+      \strng{namehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{fullhash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{fullhashraw}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{bibnamehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authorbibnamehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authornamehash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authorfullhash}{763e94a483a60e18a7c484bc3049c6f0}
+      \strng{authorfullhashraw}{763e94a483a60e18a7c484bc3049c6f0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-394-34941-1}
+      \field{title}{From mobilization to revolution}
+      \field{year}{1978}
+      \field{dateera}{ce}
+      \keyw{Repression}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
