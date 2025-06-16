@@ -313,7 +313,7 @@
       \verb{file}
       \verb Table of Contents PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\DFCNVZJS\\Dennison - 2011 - The institutional framework of Russian serfdom.pdf:application/pdf
       \endverb
-      \keyw{Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Russian Empire,Post-soviet countries}
     \endentry
     \entry{dennison_living_2012}{article}{}{}
       \name{author}{2}{}{%
@@ -374,7 +374,7 @@
       \verb{url}
       \verb https://direct.mit.edu/jinh/article/43/3/397-441/50189
       \endverb
-      \keyw{Economic history,Living standards,Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Russian Empire,Post-soviet countries,Economic history,Living standards}
     \endentry
     \entry{dimitrov_why_2013}{book}{}{}
       \name{author}{1}{}{%
@@ -575,6 +575,38 @@
       \endverb
       \keyw{Repression}
     \endentry
+    \entry{gatrell_tsarist_1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b67d74de835537b581041216ada8382}{%
+           family={Gatrell},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b67d74de835537b581041216ada8382}
+      \strng{fullhash}{6b67d74de835537b581041216ada8382}
+      \strng{fullhashraw}{6b67d74de835537b581041216ada8382}
+      \strng{bibnamehash}{6b67d74de835537b581041216ada8382}
+      \strng{authorbibnamehash}{6b67d74de835537b581041216ada8382}
+      \strng{authornamehash}{6b67d74de835537b581041216ada8382}
+      \strng{authorfullhash}{6b67d74de835537b581041216ada8382}
+      \strng{authorfullhashraw}{6b67d74de835537b581041216ada8382}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The tsarist economy, 1850-1917}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\VY5LZQCH\\Gatrell - The tsarist economy, 1850-1917.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{gerschenkron_economic_1979}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bebffe6e5ceb405a079a46159400e089}{%
@@ -614,7 +646,7 @@
       \verb{file}
       \verb Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\5CIMPHSQ\\Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:application/pdf
       \endverb
-      \keyw{Economic development,Foundational,Industrialization,Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Industrialization,Economic development,Russian Empire,Foundational,Post-soviet countries}
     \endentry
     \entry{greitens_dictators_2016}{book}{}{}
       \name{author}{1}{}{%
@@ -666,6 +698,137 @@
       \verb https://www.cambridge.org/core/product/identifier/9781316489031/type/book
       \endverb
       \keyw{Repression}
+    \endentry
+    \entry{grigoriadis_data_2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5ef68cb4feec13753e220c368a35d3c}{%
+           family={Grigoriadis},
+           familyi={G\bibinitperiod},
+           given={Theocharis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OstData}%
+      }
+      \strng{namehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{fullhash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{fullhashraw}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{bibnamehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authorbibnamehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authornamehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authorfullhash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authorfullhashraw}{a5ef68cb4feec13753e220c368a35d3c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data on Surveillance \& Repression in the Russian Empire, 1886-1912}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.15463/OSTDATA-BSB-9951568623
+      \endverb
+      \verb{urlraw}
+      \verb https://www.osmikon.de/forschungsdaten/forschungsdaten-theocharis-grigoriadis
+      \endverb
+      \verb{url}
+      \verb https://www.osmikon.de/forschungsdaten/forschungsdaten-theocharis-grigoriadis
+      \endverb
+    \endentry
+    \entry{johnson_paradigms_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6147befef8a9834bcd382ff8af8907b}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{fullhash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{fullhashraw}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{bibnamehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authorbibnamehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authornamehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authorfullhash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authorfullhashraw}{a6147befef8a9834bcd382ff8af8907b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Tout en se reportant aux r�cents commentaires de Michael Confino et Elise Kimerling Wirtschafter sur les soslovija et les classes sociales en Russie imp�riale, l'auteur laisse entendre que l'un et l'autre ont sur�valu� les difficult�s li�es � ces concepts. Certes on ne saurait nier ce que ces deux termes v�hiculent d'impr�cision et d'incoh�rence, cependant ceux-ci renvoient � des cat�gories tangibles de la soci�t� russe, cat�gories qui ont affect� les identit�s, les perceptions et les comportements. Bien que les notions de classe et de soslovie ne d�limitent pas de fa�on probante les cat�gories de la soci�t� russe, elles les mettent en lumi�re et attirent l'attention des chercheurs sur des questions empiriques significatives. Addressing the recent commentaries of Michael Confino and Elise Kimerling Wirtschafter on soslovie and class in Imperial Russia, the author suggests that both have overstated the difficulties associated with these concepts. Admittedly, problems of imprecision and inconsistency are associated with both terms, yet both refer to tangible divisions in Russian society - divisions that affected identities, perceptions and behavior. Although ideas of class and soslovie do not conclusively define the divisions in Russian society, they do illuminate those divisions and direct researchers' attention toward significant empirical questions.]}
+      \field{issn}{12526576}
+      \field{journaltitle}{Cahiers du Monde russe}
+      \field{note}{Publisher: {EHESS}}
+      \field{number}{2}
+      \field{title}{{PARADIGMS}, {CATEGORIES}, {OR} {FUZZY} {ALGORITHMS}? Making Sense of Soslovie and Class in Russia}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{51}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{461\bibrangedash 466}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/41349556
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/41349556
+      \endverb
+    \endentry
+    \entry{kessler_electronic_2020}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6976545d9f104d9976128f066efb7adf}{%
+           family={Kessler},
+           familyi={K\bibinitperiod},
+           given={Gijs},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{fullhash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{fullhashraw}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{bibnamehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authorbibnamehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authornamehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authorfullhash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authorfullhashraw}{256b0f1a9a03b1d1691c32250bead9d8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Version Number: Version I}
+      \field{title}{Electronic Repository of Russian Historical Statistics, 18th–21st centuries}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://ristat.org/
+      \endverb
+      \verb{url}
+      \verb https://ristat.org/
+      \endverb
     \endentry
     \entry{kofanov_land_2020}{thesis}{}{}
       \name{author}{1}{}{%
@@ -730,7 +893,125 @@
       \verb{url}
       \verb https://www.proquest.com/dissertations-theses/land-inequality-industrialization-unrest-evidence/docview/2450173996/se-2?accountid=14501
       \endverb
-      \keyw{0509:Economic history,0615:Political science,0724:Russian history,Economic history,Land inequality,Late Russian Empire,Political Economy,Political science,Russian history}
+      \keyw{Political Economy,Economic history,0509:Economic history,0615:Political science,0724:Russian history,Land inequality,Late Russian Empire,Political science,Russian history}
+    \endentry
+    \entry{lindert_russian_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1108743c30887b9ebb2c7036029862cb}{%
+           family={Lindert},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{fullhash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{fullhashraw}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{bibnamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorbibnamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authornamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorfullhash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorfullhashraw}{243066a7e7b171c6e9d0666dcba6381b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Careful handling of an eclectic data set reveals how unequal were the incomes of different classes of Russians on the eve of Revolution. We estimate incomes by economic and social class in each of the fifty provinces of European Russia. On the eve of military defeat and the 1905 Revolution, Russian income inequality was middling by the standards of that era, and less severe than is inequality today in China, the United States, and Russia itself. We note how the interplay of some distinctive fiscal and relative-price features of Imperial Russia might have shaped the now-revealed level of inequality.}
+      \field{issn}{0022-0507, 1471-6372}
+      \field{journaltitle}{The Journal of Economic History}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shortjournal}{J. Econ. Hist.}
+      \field{title}{Russian Inequality on the Eve of Revolution}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{74}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{767\bibrangedash 798}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1017/S002205071400059X
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\3KBB9CE3\\Lindert and Nafziger - 2014 - Russian Inequality on the Eve of Revolution.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S002205071400059X/type/journal_article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S002205071400059X/type/journal_article
+      \endverb
+    \endentry
+    \entry{fauser_engines_2021}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=408741d88b27e3327343016069b56dc5}{%
+           family={Lutz},
+           familyi={L\bibinitperiod},
+           given={Karl\bibnamedelima Häfner},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=46b1b4f77a7e2321fbf09601baeb10ee}{%
+           family={Fauser},
+           familyi={F\bibinitperiod},
+           given={Margit},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a1490c3cc2414abe5de1dc3e8b47092}{%
+           family={Friedrichs},
+           familyi={F\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fd61b106b6fc53ddd16479b0e012dbe8}{%
+           family={Harders},
+           familyi={H\bibinitperiod},
+           given={Levke},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London New York}%
+      }
+      \list{publisher}{2}{%
+        {Routledge, Taylor}%
+        {Francis Group}%
+      }
+      \strng{namehash}{408741d88b27e3327343016069b56dc5}
+      \strng{fullhash}{408741d88b27e3327343016069b56dc5}
+      \strng{fullhashraw}{408741d88b27e3327343016069b56dc5}
+      \strng{bibnamehash}{408741d88b27e3327343016069b56dc5}
+      \strng{authorbibnamehash}{408741d88b27e3327343016069b56dc5}
+      \strng{authornamehash}{408741d88b27e3327343016069b56dc5}
+      \strng{authorfullhash}{408741d88b27e3327343016069b56dc5}
+      \strng{authorfullhashraw}{408741d88b27e3327343016069b56dc5}
+      \strng{editorbibnamehash}{6c4b6cddd2c1e3359df6a3c564a184e0}
+      \strng{editornamehash}{05666ac8971226af51f8b85237eecfff}
+      \strng{editorfullhash}{6c4b6cddd2c1e3359df6a3c564a184e0}
+      \strng{editorfullhashraw}{6c4b6cddd2c1e3359df6a3c564a184e0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Migrations and border processes: practices and politics of belonging and exclusion in Europe from the nineteenth to the twenty-first century}
+      \field{isbn}{978-1-000-34397-7 978-0-367-69376-3 978-0-367-69377-0}
+      \field{title}{Engines of Social Change? Peasant Migration and the Transgression of Spatial, Legal and Cultural Divides in Late Imperial Russia}
+      \field{year}{2021}
+      \field{dateera}{ce}
     \endentry
     \entry{markevich_economic_2018}{article}{}{}
       \name{author}{2}{}{%
@@ -791,7 +1072,7 @@
       \verb{url}
       \verb https://www.aeaweb.org/articles?id=10.1257/aer.20160144
       \endverb
-      \keyw{Economic history,Economic state,Labour coercion,Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Russian Empire,Post-soviet countries,Economic history,Labour coercion,Economic state}
     \endentry
     \entry{popov_factors_2023}{article}{}{}
       \name{author}{3}{}{%
@@ -853,6 +1134,44 @@
       \verb{url}
       \verb https://www.ssrn.com/abstract=4560298
       \endverb
+    \endentry
+    \entry{slater_ordering_2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22d997cd3f441f70560f6b1e947d6264}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{fullhash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{fullhashraw}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{bibnamehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authorbibnamehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authornamehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authorfullhash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authorfullhashraw}{22d997cd3f441f70560f6b1e947d6264}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-511-76089-1 978-0-511-86028-7}
+      \field{pagetotal}{1}
+      \field{series}{Cambridge studies in comparative politics}
+      \field{shorttitle}{Ordering power}
+      \field{title}{Ordering power: contentious politics and authoritarian leviathans in Southeast Asia}
+      \field{year}{2010}
+      \field{dateera}{ce}
     \endentry
     \entry{tilly_mobilization_1978}{book}{}{}
       \name{author}{1}{}{%
@@ -1186,7 +1505,7 @@
       \verb{file}
       \verb Table of Contents PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\DFCNVZJS\\Dennison - 2011 - The institutional framework of Russian serfdom.pdf:application/pdf
       \endverb
-      \keyw{Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Russian Empire,Post-soviet countries}
     \endentry
     \entry{dennison_living_2012}{article}{}{}
       \name{author}{2}{}{%
@@ -1247,7 +1566,7 @@
       \verb{url}
       \verb https://direct.mit.edu/jinh/article/43/3/397-441/50189
       \endverb
-      \keyw{Economic history,Living standards,Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Russian Empire,Post-soviet countries,Economic history,Living standards}
     \endentry
     \entry{dimitrov_why_2013}{book}{}{}
       \name{author}{1}{}{%
@@ -1448,6 +1767,38 @@
       \endverb
       \keyw{Repression}
     \endentry
+    \entry{gatrell_tsarist_1986}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b67d74de835537b581041216ada8382}{%
+           family={Gatrell},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b67d74de835537b581041216ada8382}
+      \strng{fullhash}{6b67d74de835537b581041216ada8382}
+      \strng{fullhashraw}{6b67d74de835537b581041216ada8382}
+      \strng{bibnamehash}{6b67d74de835537b581041216ada8382}
+      \strng{authorbibnamehash}{6b67d74de835537b581041216ada8382}
+      \strng{authornamehash}{6b67d74de835537b581041216ada8382}
+      \strng{authorfullhash}{6b67d74de835537b581041216ada8382}
+      \strng{authorfullhashraw}{6b67d74de835537b581041216ada8382}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The tsarist economy, 1850-1917}
+      \field{year}{1986}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\VY5LZQCH\\Gatrell - The tsarist economy, 1850-1917.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{gerschenkron_economic_1979}{book}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=bebffe6e5ceb405a079a46159400e089}{%
@@ -1487,7 +1838,7 @@
       \verb{file}
       \verb Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\5CIMPHSQ\\Alexander Gerschenkron - Economic Backwardness in Historical Perspective_ A Book of Essays-Belknap Press (1962)-compressed.pdf:application/pdf
       \endverb
-      \keyw{Economic development,Foundational,Industrialization,Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Industrialization,Economic development,Russian Empire,Foundational,Post-soviet countries}
     \endentry
     \entry{greitens_dictators_2016}{book}{}{}
       \name{author}{1}{}{%
@@ -1539,6 +1890,137 @@
       \verb https://www.cambridge.org/core/product/identifier/9781316489031/type/book
       \endverb
       \keyw{Repression}
+    \endentry
+    \entry{grigoriadis_data_2024}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5ef68cb4feec13753e220c368a35d3c}{%
+           family={Grigoriadis},
+           familyi={G\bibinitperiod},
+           given={Theocharis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {OstData}%
+      }
+      \strng{namehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{fullhash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{fullhashraw}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{bibnamehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authorbibnamehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authornamehash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authorfullhash}{a5ef68cb4feec13753e220c368a35d3c}
+      \strng{authorfullhashraw}{a5ef68cb4feec13753e220c368a35d3c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Data on Surveillance \& Repression in the Russian Empire, 1886-1912}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.15463/OSTDATA-BSB-9951568623
+      \endverb
+      \verb{urlraw}
+      \verb https://www.osmikon.de/forschungsdaten/forschungsdaten-theocharis-grigoriadis
+      \endverb
+      \verb{url}
+      \verb https://www.osmikon.de/forschungsdaten/forschungsdaten-theocharis-grigoriadis
+      \endverb
+    \endentry
+    \entry{johnson_paradigms_2010}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6147befef8a9834bcd382ff8af8907b}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Robert\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{fullhash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{fullhashraw}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{bibnamehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authorbibnamehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authornamehash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authorfullhash}{a6147befef8a9834bcd382ff8af8907b}
+      \strng{authorfullhashraw}{a6147befef8a9834bcd382ff8af8907b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{[Tout en se reportant aux r�cents commentaires de Michael Confino et Elise Kimerling Wirtschafter sur les soslovija et les classes sociales en Russie imp�riale, l'auteur laisse entendre que l'un et l'autre ont sur�valu� les difficult�s li�es � ces concepts. Certes on ne saurait nier ce que ces deux termes v�hiculent d'impr�cision et d'incoh�rence, cependant ceux-ci renvoient � des cat�gories tangibles de la soci�t� russe, cat�gories qui ont affect� les identit�s, les perceptions et les comportements. Bien que les notions de classe et de soslovie ne d�limitent pas de fa�on probante les cat�gories de la soci�t� russe, elles les mettent en lumi�re et attirent l'attention des chercheurs sur des questions empiriques significatives. Addressing the recent commentaries of Michael Confino and Elise Kimerling Wirtschafter on soslovie and class in Imperial Russia, the author suggests that both have overstated the difficulties associated with these concepts. Admittedly, problems of imprecision and inconsistency are associated with both terms, yet both refer to tangible divisions in Russian society - divisions that affected identities, perceptions and behavior. Although ideas of class and soslovie do not conclusively define the divisions in Russian society, they do illuminate those divisions and direct researchers' attention toward significant empirical questions.]}
+      \field{issn}{12526576}
+      \field{journaltitle}{Cahiers du Monde russe}
+      \field{note}{Publisher: {EHESS}}
+      \field{number}{2}
+      \field{title}{{PARADIGMS}, {CATEGORIES}, {OR} {FUZZY} {ALGORITHMS}? Making Sense of Soslovie and Class in Russia}
+      \field{urlday}{10}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{51}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{461\bibrangedash 466}
+      \range{pages}{6}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/41349556
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/41349556
+      \endverb
+    \endentry
+    \entry{kessler_electronic_2020}{misc}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6976545d9f104d9976128f066efb7adf}{%
+           family={Kessler},
+           familyi={K\bibinitperiod},
+           given={Gijs},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ec27280d9a4a43aac3269f4f61cefc5}{%
+           family={Markevich},
+           familyi={M\bibinitperiod},
+           given={Andrei},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{fullhash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{fullhashraw}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{bibnamehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authorbibnamehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authornamehash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authorfullhash}{256b0f1a9a03b1d1691c32250bead9d8}
+      \strng{authorfullhashraw}{256b0f1a9a03b1d1691c32250bead9d8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Version Number: Version I}
+      \field{title}{Electronic Repository of Russian Historical Statistics, 18th–21st centuries}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://ristat.org/
+      \endverb
+      \verb{url}
+      \verb https://ristat.org/
+      \endverb
     \endentry
     \entry{kofanov_land_2020}{thesis}{}{}
       \name{author}{1}{}{%
@@ -1603,7 +2085,125 @@
       \verb{url}
       \verb https://www.proquest.com/dissertations-theses/land-inequality-industrialization-unrest-evidence/docview/2450173996/se-2?accountid=14501
       \endverb
-      \keyw{0509:Economic history,0615:Political science,0724:Russian history,Economic history,Land inequality,Late Russian Empire,Political Economy,Political science,Russian history}
+      \keyw{Political Economy,Economic history,0509:Economic history,0615:Political science,0724:Russian history,Land inequality,Late Russian Empire,Political science,Russian history}
+    \endentry
+    \entry{lindert_russian_2014}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1108743c30887b9ebb2c7036029862cb}{%
+           family={Lindert},
+           familyi={L\bibinitperiod},
+           given={Peter\bibnamedelima H.},
+           giveni={P\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=59d9ce2e9e2702acc8b2fb4cef9ba984}{%
+           family={Nafziger},
+           familyi={N\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{fullhash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{fullhashraw}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{bibnamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorbibnamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authornamehash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorfullhash}{243066a7e7b171c6e9d0666dcba6381b}
+      \strng{authorfullhashraw}{243066a7e7b171c6e9d0666dcba6381b}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Careful handling of an eclectic data set reveals how unequal were the incomes of different classes of Russians on the eve of Revolution. We estimate incomes by economic and social class in each of the fifty provinces of European Russia. On the eve of military defeat and the 1905 Revolution, Russian income inequality was middling by the standards of that era, and less severe than is inequality today in China, the United States, and Russia itself. We note how the interplay of some distinctive fiscal and relative-price features of Imperial Russia might have shaped the now-revealed level of inequality.}
+      \field{issn}{0022-0507, 1471-6372}
+      \field{journaltitle}{The Journal of Economic History}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shortjournal}{J. Econ. Hist.}
+      \field{title}{Russian Inequality on the Eve of Revolution}
+      \field{urlday}{27}
+      \field{urlmonth}{5}
+      \field{urlyear}{2025}
+      \field{volume}{74}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{767\bibrangedash 798}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.1017/S002205071400059X
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\Stepan Polikanov\\Zotero\\storage\\3KBB9CE3\\Lindert and Nafziger - 2014 - Russian Inequality on the Eve of Revolution.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/product/identifier/S002205071400059X/type/journal_article
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/product/identifier/S002205071400059X/type/journal_article
+      \endverb
+    \endentry
+    \entry{fauser_engines_2021}{inbook}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=408741d88b27e3327343016069b56dc5}{%
+           family={Lutz},
+           familyi={L\bibinitperiod},
+           given={Karl\bibnamedelima Häfner},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=46b1b4f77a7e2321fbf09601baeb10ee}{%
+           family={Fauser},
+           familyi={F\bibinitperiod},
+           given={Margit},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a1490c3cc2414abe5de1dc3e8b47092}{%
+           family={Friedrichs},
+           familyi={F\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod}}}%
+        {{hash=fd61b106b6fc53ddd16479b0e012dbe8}{%
+           family={Harders},
+           familyi={H\bibinitperiod},
+           given={Levke},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London New York}%
+      }
+      \list{publisher}{2}{%
+        {Routledge, Taylor}%
+        {Francis Group}%
+      }
+      \strng{namehash}{408741d88b27e3327343016069b56dc5}
+      \strng{fullhash}{408741d88b27e3327343016069b56dc5}
+      \strng{fullhashraw}{408741d88b27e3327343016069b56dc5}
+      \strng{bibnamehash}{408741d88b27e3327343016069b56dc5}
+      \strng{authorbibnamehash}{408741d88b27e3327343016069b56dc5}
+      \strng{authornamehash}{408741d88b27e3327343016069b56dc5}
+      \strng{authorfullhash}{408741d88b27e3327343016069b56dc5}
+      \strng{authorfullhashraw}{408741d88b27e3327343016069b56dc5}
+      \strng{editorbibnamehash}{6c4b6cddd2c1e3359df6a3c564a184e0}
+      \strng{editornamehash}{05666ac8971226af51f8b85237eecfff}
+      \strng{editorfullhash}{6c4b6cddd2c1e3359df6a3c564a184e0}
+      \strng{editorfullhashraw}{6c4b6cddd2c1e3359df6a3c564a184e0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Migrations and border processes: practices and politics of belonging and exclusion in Europe from the nineteenth to the twenty-first century}
+      \field{isbn}{978-1-000-34397-7 978-0-367-69376-3 978-0-367-69377-0}
+      \field{title}{Engines of Social Change? Peasant Migration and the Transgression of Spatial, Legal and Cultural Divides in Late Imperial Russia}
+      \field{year}{2021}
+      \field{dateera}{ce}
     \endentry
     \entry{markevich_economic_2018}{article}{}{}
       \name{author}{2}{}{%
@@ -1664,7 +2264,7 @@
       \verb{url}
       \verb https://www.aeaweb.org/articles?id=10.1257/aer.20160144
       \endverb
-      \keyw{Economic history,Economic state,Labour coercion,Post-soviet countries,Russia,Russian Empire}
+      \keyw{Russia,Russian Empire,Post-soviet countries,Economic history,Labour coercion,Economic state}
     \endentry
     \entry{popov_factors_2023}{article}{}{}
       \name{author}{3}{}{%
@@ -1726,6 +2326,44 @@
       \verb{url}
       \verb https://www.ssrn.com/abstract=4560298
       \endverb
+    \endentry
+    \entry{slater_ordering_2010}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=22d997cd3f441f70560f6b1e947d6264}{%
+           family={Slater},
+           familyi={S\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Cambridge New York}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{fullhash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{fullhashraw}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{bibnamehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authorbibnamehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authornamehash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authorfullhash}{22d997cd3f441f70560f6b1e947d6264}
+      \strng{authorfullhashraw}{22d997cd3f441f70560f6b1e947d6264}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{isbn}{978-0-511-76089-1 978-0-511-86028-7}
+      \field{pagetotal}{1}
+      \field{series}{Cambridge studies in comparative politics}
+      \field{shorttitle}{Ordering power}
+      \field{title}{Ordering power: contentious politics and authoritarian leviathans in Southeast Asia}
+      \field{year}{2010}
+      \field{dateera}{ce}
     \endentry
     \entry{tilly_mobilization_1978}{book}{}{}
       \name{author}{1}{}{%

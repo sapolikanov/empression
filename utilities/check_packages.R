@@ -6,8 +6,9 @@
 
 # add new packages to the chain here
 packages = c(
-  "here", "renv",
-  "tidyverse", "readxl", "haven"
+  "here", "renv", "conflicted", "sf", "knitr", "kableExtra",
+  "tidyverse", "readxl", "haven", "writexl", "MASS",
+  "patchwork", "modelsummary", "marginaleffects", "car"
 )
 
 package.check <- lapply(packages, FUN = function(x) {

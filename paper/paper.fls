@@ -22,9 +22,10 @@ INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-scr
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\tocbasic.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\typearea.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\footmisc\footmisc.sty
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrsize10pt.clo
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrsize10pt.clo
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrsize10pt.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrsize11pt.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrsize11pt.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrsize11pt.clo
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\typearea.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
@@ -105,7 +106,7 @@ INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\generic\unique
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
@@ -311,27 +312,24 @@ INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\l
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr12.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\ot1lmr.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr10.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr7.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr8.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr6.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omllmm.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi10.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi7.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi8.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi6.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omslmsy.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy10.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy7.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy8.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy6.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
@@ -340,22 +338,76 @@ INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr8.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr9.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr9.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmr5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi9.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmmi5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy9.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ec.enc
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex\latex\lm\ts1lmr.fd
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ts1-lmr10.tfm
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-ts1.enc
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathit.enc
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathsy.enc
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT .\okhrana_by_province.png
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-mathex.enc
 INPUT paper.aux
 INPUT paper.run.xml
 OUTPUT paper.run.xml
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmex10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmex10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmmi8.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr6.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr6.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr8.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr9.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr9.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
 INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmri10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy10.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb
+INPUT C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmsy8.pfb

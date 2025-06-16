@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.8)  9 JUN 2025 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.6.8)  10 JUN 2025 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -57,18 +57,18 @@ Package: tocbasic 2025/06/04 v3.45 KOMA-Script package (handling toc-files)
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
 (tocbasic)             for `toc' on input line 135.
-Package scrartcl Info: You've used standard option `10pt'.
+Package scrartcl Info: You've used standard option `11pt'.
 (scrartcl)             This is correct!
-(scrartcl)             Internally I'm using `fontsize=10pt'.
+(scrartcl)             Internally I'm using `fontsize=11pt'.
 (scrartcl)             If you'd like to set the option with \KOMAoptions,
-(scrartcl)             you'd have to use `fontsize=10pt' there
-(scrartcl)             instead of `10pt', too.
-Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input l
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
 ine 2476.
 
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\
-scrsize10pt.clo
-File: scrsize10pt.clo 2025/06/04 v3.45 KOMA-Script font size class option (10pt
+scrsize11pt.clo
+File: scrsize11pt.clo 2025/06/04 v3.45 KOMA-Script font size class option (11pt
 )
 )
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\
@@ -81,21 +81,21 @@ Package: typearea 2025/06/04 v3.45 KOMA-Script package (type area)
 \ta@temp=\skip53
 \footheight=\skip54
 Package typearea Info: These are the values describing the layout:
-(typearea)             DIV  = 8
+(typearea)             DIV  = 10
 (typearea)             BCOR = 0.0pt
 (typearea)             \paperwidth      = 597.50793pt
-(typearea)              \textwidth      = 373.44246pt
-(typearea)              DIV departure   = -4%
-(typearea)              \evensidemargin = 39.76274pt
-(typearea)              \oddsidemargin  = 39.76274pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
 (typearea)             \paperheight     = 845.04694pt
-(typearea)              \textheight     = 538.0pt
-(typearea)              \topmargin      = 0.36087pt
-(typearea)              \headheight     = 15.0pt
-(typearea)              \headsep        = 18.0pt
-(typearea)              \topskip        = 10.0pt
-(typearea)              \footskip       = 42.0pt
-(typearea)              \baselineskip   = 12.0pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
 (typearea)              on input line 1804.
 )
 \c@part=\count276
@@ -1350,12 +1350,12 @@ Package biblatex Info: Reference segment=0 on input line 102.
 * \textheight=657.25848pt
 * \oddsidemargin=21.62419pt
 * \evensidemargin=21.62419pt
-* \topmargin=-11.37581pt
-* \headheight=15.0pt
-* \headsep=18.0pt
-* \topskip=10.0pt
-* \footskip=42.0pt
-* \marginparwidth=74.68849pt
+* \topmargin=-15.77582pt
+* \headheight=17.0pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=59.7508pt
 * \marginparsep=12.8401pt
 * \columnsep=10.0pt
 * \skip\footins=15.0pt
@@ -1374,6 +1374,57 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
 (C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+12.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+12.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+112.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.f
+d
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+112.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.f
+d
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 112.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 112.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 112.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 112
+.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+a.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 112
+.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
+b.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 112.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 112.
+
 
 [1
 
@@ -1382,56 +1433,67 @@ File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 enc}]
 
 [2]
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-46.
-
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-46.
-
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-146.
-
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.f
-d
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-146.
-
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.f
-d
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 146.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 146.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 146.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 146
-.
-
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
-a.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 146
-.
-
-(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
-b.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
 
 [3]
 
-[4] (paper.aux)
+[4]
+
+[5]
+
+[6]
+
+[7]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+87.
+
+(C:\Users\Stepan Polikanov\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+
+[8{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
+m-ts1.enc}]
+<okhrana_by_province.png, id=126, 867.24pt x 433.62pt>
+File: okhrana_by_province.png Graphic file (type png)
+<use okhrana_by_province.png>
+Package pdftex.def Info: okhrana_by_province.png  used on input line 203.
+(pdftex.def)             Requested size: 409.71951pt x 204.86006pt.
+
+Overfull \hbox (44.66577pt too wide) detected at line 216
+[]
+ []
+
+
+
+[9{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
+m-mathit.enc}{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc
+/dvips/lm/lm-rm.enc}{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fo
+nts/enc/dvips/lm/lm-mathsy.enc} <./okhrana_by_province.png>]
+
+[10]
+File: okhrana_by_province.png Graphic file (type png)
+<use okhrana_by_province.png>
+Package pdftex.def Info: okhrana_by_province.png  used on input line 278.
+(pdftex.def)             Requested size: 409.71951pt x 204.86006pt.
+
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+Overfull \hbox (3.87262pt too wide) in paragraph at lines 346--346
+\T1/lmr/m/n/10.95 ses 28092713]. [][]$https : / / www . proquest . com / disser
+tations -[] theses / land -[] inequality -[]
+ []
+
+
+
+[15]
+
+[16{C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/
+lm-mathex.enc}] (paper.aux)
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2020/03/25>
@@ -1441,21 +1503,35 @@ Package logreq Info: Writing requests to 'paper.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31906 strings out of 468225
- 643876 string characters out of 5427614
- 1671686 words of memory out of 5000000
- 60014 multiletter control sequences out of 15000+600000
- 667622 words of font info for 66 fonts, out of 8000000 for 9000
+ 32118 strings out of 468225
+ 648761 string characters out of 5427614
+ 1677787 words of memory out of 5000000
+ 60172 multiletter control sequences out of 15000+600000
+ 685284 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 122i,7n,121p,10973b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1/public/l
-m/lmbx12.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/lm/lmr10.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/lm/lmr12.pfb><C:/Users/Stepan Polikanov/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on paper.pdf (4 pages, 141615 bytes).
+ 122i,11n,121p,10973b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+<C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/
+lmbx10.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/lm/lmbx12.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/lm/lmex10.pfb><C:/Users/Stepan Polikanov/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/Stepan Polikanov/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/Stepan Polikano
+v/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Stepa
+n Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/U
+sers/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.
+pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/lm/lmr8.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/lm/lmr9.pfb><C:/Users/Stepan Polikanov/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/lm/lmri10.pfb><C:/Users/Stepan Polikanov/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/Stepan Polikanov/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb>
+Output written on paper.pdf (16 pages, 381308 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 63 named destinations out of 1000 (max. 500000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 
