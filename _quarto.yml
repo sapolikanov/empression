@@ -1,21 +1,30 @@
 project:
-  title: "Title"
+  title: "Farm-to-factory? Peasant Unrest and Surveillance in Late Imperial Russia"
   output-dir: _products
   execute-dir: project
   pre-render: 
     - utilities/check_packages.R      # install required packages
     - utilities/remove_artifacts.ts   # remove previously constructed files
-
+  render:
+    - analysis/data_building/data_building.qmd
+    - analysis/models/models.qmd
+    
+format:
+  pdf:
+    fig-pos: "H"
+    fontsize: 11pt
+    highlight-style: breezedark
+    fig-width: 10
+    fig-height: 6
+    include-in-header:
+      - preamble.tex
+      
 author:
   - name: Stepan Polikanov
     orcid: 0000-0002-2329-2750
     email: splknv.public@gmail.com
     attributes:
       corresponding: true
-    affiliations:
-      - id: uc3m
-        name: Universidad Carlos III de Madrid
-        department: Social Sciences
   
 execute: 
   freeze: false

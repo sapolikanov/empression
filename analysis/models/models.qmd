@@ -1,0 +1,191 @@
+---
+title: "Modelling"
+subtitle: "Peasant unrest and imperial repression"
+format: 
+  pdf:
+    keep-tex: true
+execute: 
+  echo: true
+  warning: false
+  error: false
+  message: false
+---
+
+```{r}
+#| label: setup
+
+## Building data for the analysis
+## Dependencies: data_raw folder
+
+source(here::here("utilities", "check_packages.R"))
+source(here::here("utilities", "functions.R"))
+
+conflicts_prefer(sfnetworks::activate)
+conflicts_prefer(dplyr::filter)
+conflicts_prefer(dplyr::lag)
+conflicts_prefer(dplyr::select)
+```
+
+```{r}
+#| label: load_data
+
+okhrana_full <- read_rds(here("data", "data_built", "okhrana_full.rds"))
+```
+
+
+```{r}
+#| label: descriptives
+#| fig.width: 12
+#| fig.height: 6
+
+bar_plot <- okhrana_full |> 
+  slice_max(total_cases, n = 10) |> 
+  ggplot(aes(x = total_cases, 
+                                 y = fct_reorder(prov_ENG, total_cases))) +
+  geom_col(fill = "steelblue") +
+  labs(
+    x = "\nNumber of Repression Cases",
+    y = NULL,
+  ) +
+  scale_x_continuous(labels = scales::comma) +
+  theme_minimal(base_size = 12)
+
+map_plot <- ggplot(st_as_sf(okhrana_full)) +
+  geom_sf(aes(fill = log1p(total_cases)), color = "black", size = 0.2) +
+  scale_fill_viridis_c(option = "plasma", na.value = "grey90") +
+  theme_void() +
+  scale_fill_continuous(
+    name = "Repression Cases\n",
+    trans = "identity",
+    labels = function(x) scales::comma(round(expm1(x))),
+    breaks = log1p(c(0, 10, 40, 200, 1000))  # customize based on your range
+  ) +
+  theme(legend.position = "bottom")
+
+okhrana_by_province <- bar_plot + map_plot + 
+  plot_layout(ncol = 2, widths = c(1, 2)) +
+  plot_annotation(
+    title = "Okhrana cases by province"
+  )
+
+okhrana_by_province
+
+# write to paper/ as okhrana_by_province.png
+ggsave(here("paper", "okhrana_by_province.png"), 
+       okhrana_by_province, width = 12, height = 6, dpi = 300)
+```
+
+
+```{r}
+#| label: models 
+
+# Refit models
+model1 <- lm(log1p(total_cases) ~ log1p(events), data = okhrana_full)
+model2 <- lm(log1p(total_cases) ~ log1p(events) + land_gini, data = okhrana_full)
+model3 <- lm(log1p(total_cases) ~ log1p(events) + land_gini + sh_serfs1858 + peasant_share, data = okhrana_full)
+model4 <- lm(log1p(total_cases) ~ log1p(events) + land_gini + sh_serfs1858 + peasant_share +
+               urbanization_1904 + manufacturing_share_1904, data = okhrana_full)
+model5 <- lm(log1p(total_cases) ~ log1p(events) + land_gini + sh_serfs1858 + peasant_share +
+               urbanization_1904 * land_gini + manufacturing_share_1904, data = okhrana_full)
+
+# Extract all term names used across models
+all_terms <- unique(unlist(lapply(list(model1, model2, model3, model4, model5), function(m) names(coef(m)))))
+
+# Create a default mapping that falls back to original names if not mapped manually
+custom_labels <- c(
+  "log1p(events)" = "(Log) Pre-1905 unrest",
+  "land_gini" = "Land inequality (Gini)",
+  "sh_serfs1858" = "Share of serfs (1858)",
+  "peasant_share" = "Peasant land share",
+  "urbanization_1904" = "Urbanization (1904)",
+  "manufacturing_share_1904" = "Manufacturing share (1904)",
+  "land_gini:urbanization_1904" = "Urbanization × Inequality",
+  "(Intercept)" = "Intercept"
+)
+
+# Fill in any unmapped terms to avoid errors
+full_coef_map <- setNames(
+  custom_labels[all_terms] %||% all_terms,
+  all_terms
+)
+
+# Generate clean summary
+modelsummary(
+  list(
+    "1. Unrest only" = model1,
+    "2. + Inequality" = model2,
+    "3. + Serfdom & Peasants" = model3,
+    "4. + Urban & Industrial" = model4,
+    "5. + Urban × Inequality" = model5
+  ),
+  coef_map = full_coef_map,
+  gof_omit = "IC|Log|Adj|F|Deviance|AIC|BIC",
+  stars = TRUE,
+  output = "kableExtra"
+) |> 
+  kable_styling(latex_options = c("scale_down"))
+```
+
+```{r}
+#| label: plot the interaction
+#| fig.width: 8
+#| fig.height: 6
+
+interaction <- plot_predictions(model5, 
+                 condition = c("land_gini",
+                               "urbanization_1904")) +
+  labs(
+    x = "Land inequality (Gini)",
+    y = "Predicted (log) repression cases",
+    color = "Urbanization (1904)",
+    fill = "Urbanization (1904)",
+  ) +
+  scale_color_viridis_d(option = "plasma", direction = -1) +
+  scale_fill_viridis_d(option = "plasma", direction = -1) +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "bottom")
+
+interaction
+
+# write to paper/ as interaction.png
+ggsave(here("paper", "interaction.png"), 
+       interaction, width = 8, height = 6, dpi = 300)
+```
+
+```{r}
+#| label: poisson
+
+nb_model <- glm.nb(total_cases ~ log1p(events) + land_gini + sh_serfs1858
+                   + peasant_share + urbanization_1904
+                   + manufacturing_share_1904,
+                   data = okhrana_full)
+
+model_rev <- lm(log1p(revolutionary_cases) ~ log1p(events) + land_gini 
+                + sh_serfs1858 + peasant_share
+                + urbanization_1904 + manufacturing_share_1904, 
+                data = okhrana_full)
+
+model_pop <- lm(log1p(total_cases) ~  log1p(events) + land_gini
+                + sh_serfs1858 + peasant_share + urbanization_1904
+                + manufacturing_share_1904 +
+                  log(population_1904),
+                data = okhrana_full)
+
+model_alt_ineq <- lm(log1p(total_cases) ~ log1p(events)
+                     + peasant_share + sh_serfs1858
+                     + urbanization_1904 + manufacturing_share_1904,
+                    data = okhrana_full)
+
+modelsummary(
+  list("Control for population" = model_pop,
+       "Revolutionaries only" = model_rev,
+       "Alternative inequality measure" = model_alt_ineq,
+       "Negative Binomial" = nb_model),
+  coef_map = full_coef_map,
+  exponentiate = c(F, F, F, T),
+  stars = TRUE,
+  output = "kableExtra"
+) |> 
+  kable_styling(latex_options = c("scale_down"))
+```
+
